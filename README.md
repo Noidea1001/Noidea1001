@@ -5,7 +5,12 @@
 Full-Stack Developer — ASP.NET Core & Modern Web
 Phnom Penh, Cambodia
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Backend-focused+full-stack+developer;ASP.NET+Core+%7C+EF+Core+%7C+REST+APIs&font=JetBrains+Mono&center=true&width=520&height=30&color=1a1a1a&vCenter=true&size=15&pause=2500"/>
+<img src="https://readme-typing-svg.demolab.com/?lines=Backend-focused+full-stack+developer;ASP.NET+Core+%7C+EF+Core+%7C+REST+APIs&font=JetBrains+Mono&center=true&width=520&height=30&color=1f6feb&vCenter=true&size=15&pause=2500"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Location-Phnom_Penh-1f6feb?style=flat-square"/>
+<img src="https://img.shields.io/badge/Available_for-Internships-1f6feb?style=flat-square"/>
 
 </div>
 
@@ -20,6 +25,12 @@ My work follows an API-first structure: separated repository/service layers, EF 
 <br>
 
 ## Technology
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cs,dotnet,py,django,js,html,css,bootstrap,sqlite,postgres,git,github&theme=dark" />
+</div>
+
+<br>
 
 **Backend & Data** — C#, ASP.NET Core, ASP.NET Core Web API, Entity Framework Core, SQLite, PostgreSQL, Python, Django
 **Frontend** — JavaScript, HTML5, CSS3, Bootstrap 5
@@ -50,6 +61,25 @@ Point-of-sale interface focused on clean, functional UI.
 
 <br>
 
+## GitHub Metrics
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Noidea1001&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true&title_color=1f6feb&icon_color=1f6feb" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noidea1001&layout=compact&theme=dark&hide_border=true&hide_title=true&title_color=1f6feb" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Noidea1001&theme=dark&hide_border=true&background=0d1117&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb" />
+</div>
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Noidea1001&theme=react-dark&hide_border=true&bg_color=0d1117&color=1f6feb&line=1f6feb&point=ffffff" width="100%"/>
+</div>
+
+<br>
+
 <div align="center">
 
 <picture>
@@ -66,4 +96,10 @@ Point-of-sale interface focused on clean, functional UI.
 
 Open to internship opportunities and collaboration.
 
-[Email](mailto:your-email@example.com) · [LinkedIn](https://linkedin.com/in/your-profile) · [GitHub](https://github.com/Noidea1001)
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-1f6feb?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1f6feb?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-1f6feb?style=flat-square&logo=github&logoColor=white)](https://github.com/Noidea1001)
+
+</div>
