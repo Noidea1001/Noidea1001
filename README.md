@@ -113,3 +113,4 @@ Open to internship opportunities and collaboration.
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=120&section=footer"/>
+
