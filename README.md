@@ -1,16 +1,14 @@
 <div align="center">
 
-# Vy Sal
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=230&section=header&text=Vy%20Sal&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20%E2%80%94%20ASP.NET%20Core%20%26%20Modern%20Web&descAlignY=54&descSize=17&descColor=cdd9f7"/>
 
-Full-Stack Developer — ASP.NET Core & Modern Web
-Phnom Penh, Cambodia
+<img src="https://readme-typing-svg.demolab.com/?lines=Backend-focused+full-stack+developer;ASP.NET+Core+%7C+EF+Core+%7C+REST+APIs;Building+production-grade+systems,+not+scaffolding&font=JetBrains+Mono&center=true&width=560&height=30&color=1f6feb&vCenter=true&size=15&pause=2400"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Backend-focused+full-stack+developer;ASP.NET+Core+%7C+EF+Core+%7C+REST+APIs&font=JetBrains+Mono&center=true&width=520&height=30&color=1f6feb&vCenter=true&size=15&pause=2500"/>
+<br><br>
 
-<br>
-
-<img src="https://img.shields.io/badge/Location-Phnom_Penh-1f6feb?style=flat-square"/>
-<img src="https://img.shields.io/badge/Available_for-Internships-1f6feb?style=flat-square"/>
+<img src="https://img.shields.io/badge/Location-Phnom_Penh-1f6feb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Available_for-Internships-1f6feb?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Focus-Backend_%2F_Full--Stack-1f6feb?style=for-the-badge"/>
 
 </div>
 
@@ -103,3 +101,5 @@ Open to internship opportunities and collaboration.
 [![GitHub](https://img.shields.io/badge/GitHub-1f6feb?style=flat-square&logo=github&logoColor=white)](https://github.com/Noidea1001)
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=120&section=footer"/>
