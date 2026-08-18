@@ -1,706 +1,281 @@
-<html>
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style>
-  * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
+# Noidea1001
 
-  body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
-    color: #e2e8f0;
-    line-height: 1.6;
-    min-height: 100vh;
-  }
+> Full-Stack Developer & Backend Specialist | Building Production-Grade Enterprise Solutions
 
-  .container {
-    max-width: 1200px;
-    margin: 0 auto;
-    padding: 0 20px;
-  }
+---
 
-  /* Header Section */
-  .header {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    padding: 80px 20px;
-    text-align: center;
-    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
-    clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
-  }
+## Overview
 
-  .header h1 {
-    font-size: 4rem;
-    font-weight: 700;
-    margin-bottom: 10px;
-    text-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
-  }
+I am a dedicated full-stack developer with deep expertise in building scalable, production-grade applications. My focus is on clean architecture, database optimization, and enterprise-level system design. I specialize in backend development with a strong foundation in RESTful APIs and microservices architecture.
 
-  .header p {
-    font-size: 1.3rem;
-    opacity: 0.95;
-    font-weight: 300;
-    letter-spacing: 1px;
-  }
+**Current Focus:** Enterprise applications, system architecture, and production-ready solutions
 
-  .role-badge {
-    display: inline-block;
-    background: rgba(255, 255, 255, 0.15);
-    border: 1px solid rgba(255, 255, 255, 0.3);
-    padding: 12px 30px;
-    border-radius: 50px;
-    margin-top: 20px;
-    font-size: 0.95rem;
-    backdrop-filter: blur(10px);
-    font-weight: 500;
-  }
+**Specialization:** API Design | Database Architecture | System Design | Backend Development
 
-  /* Main Content */
-  .content {
-    padding: 60px 20px;
-  }
+**Philosophy:** Write code that solves problems elegantly, scales effortlessly, and maintains clarity throughout the codebase.
 
-  /* Sections */
-  .section {
-    margin-bottom: 80px;
-  }
+---
 
-  .section-title {
-    font-size: 2.2rem;
-    font-weight: 700;
-    margin-bottom: 40px;
-    padding-bottom: 20px;
-    border-bottom: 2px solid #667eea;
-    position: relative;
-    display: inline-block;
-  }
+## Technology Stack
 
-  .section-title::after {
-    content: '';
-    position: absolute;
-    bottom: -2px;
-    left: 0;
-    height: 2px;
-    width: 100%;
-    background: linear-gradient(90deg, #667eea, #764ba2, transparent);
-  }
+### Languages
+- **Python** - Data processing, backend automation
+- **C#** - Enterprise applications, .NET development
+- **JavaScript** - Frontend interactivity, modern web apps
+- **HTML5** - Semantic markup, accessibility
+- **CSS3** - Modern styling, responsive design
 
-  /* About Section */
-  .about-content {
-    background: rgba(30, 41, 59, 0.8);
-    border-left: 4px solid #667eea;
-    padding: 40px;
-    border-radius: 8px;
-    backdrop-filter: blur(10px);
-    border: 1px solid rgba(255, 255, 255, 0.1);
-  }
+### Backend & Frameworks
+- **ASP.NET Core** - Enterprise web applications
+- **.NET Core** - Cross-platform development
+- **Entity Framework Core** - ORM and database abstraction
+- **Django** - Full-featured web framework
+- **Flask** - Lightweight API development
+- **REST APIs** - Scalable service architecture
 
-  .about-content h3 {
-    font-size: 1.3rem;
-    margin-top: 20px;
-    margin-bottom: 12px;
-    color: #667eea;
-    font-weight: 600;
-  }
+### Databases & Tools
+- **PostgreSQL** - Advanced relational database
+- **SQL Server** - Enterprise database solutions
+- **SQLite** - Embedded database systems
+- **Git** - Version control and collaboration
+- **GitHub** - Repository management and CI/CD
 
-  .about-content p {
-    font-size: 1.05rem;
-    line-height: 1.8;
-    color: #cbd5e1;
-    margin-bottom: 15px;
-  }
+---
 
-  /* Tech Stack */
-  .tech-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 40px;
-    margin-top: 30px;
-  }
+## Featured Projects
 
-  .tech-category {
-    background: rgba(30, 41, 59, 0.8);
-    border-radius: 8px;
-    padding: 30px;
-    border: 1px solid rgba(255, 255, 255, 0.1);
-    backdrop-filter: blur(10px);
-    transition: all 0.3s ease;
-  }
+### Bank Account API
+**Secure banking system with comprehensive transaction processing**
+- Python | REST API | Database Design
+- Full transaction management with security protocols
+- RESTful architecture for modern integrations
+- Advanced database schema for financial operations
+- [View Repository](https://github.com/Noidea1001/Bank_account_api)
 
-  .tech-category:hover {
-    border-color: #667eea;
-    box-shadow: 0 8px 32px rgba(102, 126, 234, 0.15);
-    transform: translateY(-5px);
-  }
+---
 
-  .tech-category h4 {
-    font-size: 1.2rem;
-    color: #667eea;
-    margin-bottom: 20px;
-    font-weight: 600;
-  }
+### Travel Booking System
+**Full-featured travel platform with booking management**
+- Python | Database Architecture | APIs
+- Flight and hotel booking engine
+- Itinerary management system
+- Payment processing integration
+- Enterprise-level database optimization
+- [View Repository](https://github.com/Noidea1001/Travel-booking-system)
 
-  .tech-list {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 12px;
-  }
+---
 
-  .tech-badge {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    padding: 8px 16px;
-    border-radius: 20px;
-    font-size: 0.9rem;
-    font-weight: 500;
-    border: 1px solid rgba(255, 255, 255, 0.2);
-  }
+### University Management System
+**Enterprise-level system with EF Core architecture**
+- C# | .NET Core | Entity Framework Core
+- Student enrollment and course management
+- Grade tracking and reporting
+- Comprehensive analytics dashboard
+- Production-ready architecture with SQL Server
+- [View Repository](https://github.com/Noidea1001/University-managment-EF-core)
 
-  /* Projects Section */
-  .projects-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
-    gap: 30px;
-    margin-top: 30px;
-  }
+---
 
-  .project-card {
-    background: rgba(30, 41, 59, 0.8);
-    border-radius: 8px;
-    padding: 30px;
-    border: 1px solid rgba(255, 255, 255, 0.1);
-    backdrop-filter: blur(10px);
-    transition: all 0.3s ease;
-    position: relative;
-    overflow: hidden;
-  }
+### Online Learning System
+**Django-powered e-learning platform**
+- Django | PostgreSQL | Frontend Integration
+- Course and curriculum management
+- Student progress tracking system
+- Multilingual support with i18n
+- Assessment and grading features
+- [View Repository](https://github.com/Noidea1001/Online-learning-system)
 
-  .project-card::before {
-    content: '';
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 4px;
-    background: linear-gradient(90deg, #667eea, #764ba2);
-  }
+---
 
-  .project-card:hover {
-    border-color: #667eea;
-    box-shadow: 0 12px 40px rgba(102, 126, 234, 0.2);
-    transform: translateY(-8px);
-  }
+### Library Management System
+**Complete inventory and member management**
+- HTML5 | CSS3 | JavaScript
+- Complete book cataloging system
+- Member and account management
+- Automated checkout and return system
+- Comprehensive reporting features
+- [View Repository](https://github.com/Noidea1001/Library-System)
 
-  .project-title {
-    font-size: 1.3rem;
-    font-weight: 700;
-    margin-bottom: 12px;
-    color: #f1f5f9;
-  }
+---
 
-  .project-description {
-    color: #cbd5e1;
-    margin-bottom: 18px;
-    font-size: 0.95rem;
-    line-height: 1.6;
-  }
+### Point of Sale System
+**Professional POS interface for retail operations**
+- HTML5 | CSS3 | JavaScript
+- Sales transaction processing
+- Inventory tracking and management
+- Real-time reporting and analytics
+- Modern responsive UI design
+- [View Repository](https://github.com/Noidea1001/pos)
 
-  .project-tech {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-    margin-bottom: 18px;
-  }
+---
 
-  .tech-tag {
-    background: rgba(102, 126, 234, 0.15);
-    color: #a5b4fc;
-    padding: 6px 12px;
-    border-radius: 4px;
-    font-size: 0.85rem;
-    border: 1px solid rgba(102, 126, 234, 0.3);
-  }
+### Student Attendance Management System
+**Automated attendance tracking solution**
+- Database Architecture | Python | Backend
+- Automated attendance recording
+- Comprehensive report generation
+- Advanced analytics and insights
+- Performance metrics and dashboards
+- [View Repository](https://github.com/Noidea1001/Student-Attendance-Management-System)
 
-  .project-link {
-    display: inline-block;
-    color: #667eea;
-    text-decoration: none;
-    font-weight: 600;
-    font-size: 0.95rem;
-    transition: all 0.3s ease;
-    padding-bottom: 2px;
-    border-bottom: 2px solid transparent;
-  }
+---
 
-  .project-link:hover {
-    color: #764ba2;
-    border-bottom-color: #764ba2;
-  }
+### Weather Application
+**Real-time weather application**
+- Frontend Development | APIs | JavaScript
+- Location-based weather forecasts
+- Interactive data visualization
+- Real-time updates and notifications
+- Responsive mobile design
+- [View Repository](https://github.com/Noidea1001/project-weather)
 
-  /* Skills Section */
-  .skills-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 25px;
-    margin-top: 30px;
-  }
+---
 
-  .skill-item {
-    background: rgba(30, 41, 59, 0.8);
-    padding: 25px;
-    border-radius: 8px;
-    border: 1px solid rgba(255, 255, 255, 0.1);
-    backdrop-filter: blur(10px);
-  }
+## Core Competencies
 
-  .skill-item h4 {
-    color: #667eea;
-    font-size: 1.1rem;
-    margin-bottom: 15px;
-    font-weight: 600;
-  }
+### Backend Architecture
+- RESTful API design and implementation
+- SOLID Principles and design patterns
+- Microservices architecture patterns
+- Clean code architecture principles
+- Scalable system design
+- API gateway patterns
 
-  .skill-item p {
-    color: #cbd5e1;
-    font-size: 0.95rem;
-    line-height: 1.6;
-  }
+### Database Design
+- Database normalization and schema design
+- Complex query optimization
+- Entity relationship modeling
+- Performance tuning strategies
+- Data integrity and constraints
+- Advanced SQL techniques
 
-  /* Stats Section */
-  .stats-container {
-    background: rgba(30, 41, 59, 0.8);
-    border-radius: 8px;
-    padding: 40px;
-    border: 1px solid rgba(255, 255, 255, 0.1);
-    backdrop-filter: blur(10px);
-    margin-top: 30px;
-  }
+### Backend Frameworks
+- ASP.NET Core development
+- Entity Framework Core proficiency
+- Django application development
+- Flask API creation
+- Async programming patterns
+- Authentication and authorization
 
-  .stats-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 25px;
-    text-align: center;
-  }
+### Frontend Technologies
+- HTML5 semantic markup
+- CSS3 modern styling and layouts
+- JavaScript ES6+ development
+- Bootstrap responsive design
+- UI/UX implementation
+- Cross-browser compatibility
 
-  .stat-item {
-    padding: 20px;
-  }
+### Development Practices
+- Git version control workflows
+- Code review and quality assurance
+- Testing and debugging methodologies
+- Agile development practices
+- CI/CD pipeline management
+- Documentation standards
 
-  .stat-number {
-    font-size: 2.5rem;
-    font-weight: 700;
-    color: #667eea;
-    margin-bottom: 8px;
-  }
+### System Design
+- Scalability planning and implementation
+- Performance optimization strategies
+- Security best practices
+- Architecture pattern selection
+- Load balancing and redundancy
+- Monitoring and logging systems
 
-  .stat-label {
-    color: #cbd5e1;
-    font-size: 0.95rem;
-  }
+---
 
-  /* Contact Section */
-  .contact-container {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
-    border-radius: 8px;
-    padding: 50px;
-    text-align: center;
-    margin-top: 30px;
-  }
+## Key Highlights
 
-  .contact-title {
-    font-size: 2rem;
-    font-weight: 700;
-    margin-bottom: 30px;
-  }
+| Metric | Achievement |
+|--------|-------------|
+| **Projects Delivered** | 14+ enterprise applications |
+| **Technology Stacks** | 5+ diverse tech combinations |
+| **Code Quality** | 100% focus on clean, maintainable code |
+| **Learning** | Continuous improvement mindset |
+| **Lines of Code** | 50,000+ production code written |
+| **Database Design** | Complex schemas with optimization |
 
-  .contact-links {
-    display: flex;
-    justify-content: center;
-    flex-wrap: wrap;
-    gap: 20px;
-    margin-bottom: 30px;
-  }
+---
 
-  .contact-btn {
-    background: rgba(255, 255, 255, 0.2);
-    border: 1px solid rgba(255, 255, 255, 0.3);
-    color: white;
-    padding: 12px 30px;
-    border-radius: 4px;
-    text-decoration: none;
-    font-weight: 600;
-    transition: all 0.3s ease;
-    backdrop-filter: blur(10px);
-  }
+## Currently Working On
 
-  .contact-btn:hover {
-    background: rgba(255, 255, 255, 0.3);
-    border-color: rgba(255, 255, 255, 0.5);
-  }
+### Advanced API Architecture
+Implementing microservices patterns and distributed system architectures for enhanced scalability and maintainability. Focusing on service communication and data consistency.
 
-  .opportunities {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-    gap: 15px;
-    margin-top: 20px;
-    justify-content: center;
-  }
+### System Design Mastery
+Deep diving into scalable architecture principles, design patterns, and enterprise-level best practices. Building knowledge in distributed systems.
 
-  .opp-item {
-    background: rgba(255, 255, 255, 0.1);
-    padding: 15px;
-    border-radius: 4px;
-    border: 1px solid rgba(255, 255, 255, 0.2);
-    font-weight: 500;
-  }
+### Enterprise Solutions
+Building production-grade systems with robust architecture, security implementation, and performance optimization for real-world deployments.
 
-  /* Footer */
-  .footer {
-    text-align: center;
-    padding: 40px 20px;
-    border-top: 1px solid rgba(255, 255, 255, 0.1);
-    color: #94a3b8;
-    font-size: 0.95rem;
-  }
+### Code Excellence
+Continuous improvement through systematic refactoring and implementation of advanced coding patterns, ensuring long-term maintainability.
 
-  /* Responsive */
-  @media (max-width: 768px) {
-    .header h1 {
-      font-size: 2.5rem;
-    }
+### Performance Optimization
+Database query optimization, caching strategies, and algorithmic efficiency improvements to maximize system performance.
 
-    .header p {
-      font-size: 1.1rem;
-    }
+### Full-Stack Integration
+Seamless integration of frontend and backend systems with modern development practices and clean interfaces between layers.
 
-    .section-title {
-      font-size: 1.8rem;
-    }
+---
 
-    .projects-grid {
-      grid-template-columns: 1fr;
-    }
+## Professional Profile
 
-    .tech-grid {
-      grid-template-columns: 1fr;
-    }
-  }
+**Location:** Phnom Penh  
+**Focus Areas:** Backend Systems | Enterprise Applications | Database Architecture  
+**Years of Experience:** Continuous Learning and Growth  
+**Code Philosophy:** Clean, Scalable, Maintainable  
 
-  /* Animations */
-  @keyframes slideUp {
-    from {
-      opacity: 0;
-      transform: translateY(20px);
-    }
-    to {
-      opacity: 1;
-      transform: translateY(0);
-    }
-  }
+---
 
-  .section {
-    animation: slideUp 0.6s ease-out;
-  }
-</style>
-</head>
-<body>
+## Open Opportunities
 
-<!-- Header -->
-<div class="header">
-  <div class="container">
-    <h1>Noidea1001</h1>
-    <p>Full-Stack Developer & Backend Specialist</p>
-    <div class="role-badge">Building Production-Grade Enterprise Solutions</div>
-  </div>
+- Full-time Backend/Full-Stack positions
+- Contract and freelance projects
+- Technical collaboration and partnerships
+- Open source contribution
+- Mentoring and knowledge sharing
+- Architecture consulting
+
+---
+
+## Connect
+
+- **GitHub:** [github.com/Noidea1001](https://github.com/Noidea1001)
+- **Email:** your.email@example.com
+- **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
+
+---
+
+## Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noidea1001&show_icons=true&theme=dark&bg_color=0d1117&title_color=667eea&text_color=8b949e&icon_color=667eea&border_color=667eea&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noidea1001&layout=compact&theme=dark&bg_color=0d1117&title_color=667eea&text_color=8b949e&border_color=667eea)
+
+---
+
+## Latest Activity
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Noidea1001&theme=dark&background=0d1117&ring=667eea&fire=667eea&currStreakLabel=667eea&border=667eea)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noidea1001&theme=react-dark&hide_border=true&bg_color=0d1117&color=667eea&line=667eea&point=ffffff)
+
+---
+
+## Summary
+
+I bring a comprehensive skill set in full-stack development with a strong emphasis on backend architecture and system design. My experience spans multiple technologies and frameworks, with a proven ability to deliver production-grade applications. I am committed to writing clean, maintainable code that scales efficiently and solves real-world problems.
+
+**Core Value:** Building robust, scalable solutions that combine technical excellence with practical business value.
+
+---
+
+<div align="center">
+
+**Crafted with precision and attention to detail**  
+Last Updated: August 2026
+
+For more details, visit my repositories and explore the code directly.
+
 </div>
-
-<!-- Main Content -->
-<div class="container">
-  <div class="content">
-
-    <!-- About Section -->
-    <div class="section">
-      <h2 class="section-title">About</h2>
-      <div class="about-content">
-        <p>I am a full-stack developer with deep expertise in building scalable, production-grade applications. My focus is on clean architecture, database optimization, and enterprise-level system design. I specialize in backend development with a strong foundation in RESTful APIs and microservices architecture.</p>
-        
-        <h3>Current Focus</h3>
-        <p>Enterprise applications, system architecture, and production-ready solutions</p>
-        
-        <h3>Specialization</h3>
-        <p>API Design | Database Architecture | System Design | Backend Development</p>
-        
-        <h3>Philosophy</h3>
-        <p>Write code that solves problems elegantly, scales effortlessly, and maintains clarity throughout the codebase.</p>
-      </div>
-    </div>
-
-    <!-- Technology Stack -->
-    <div class="section">
-      <h2 class="section-title">Technology Stack</h2>
-      <div class="tech-grid">
-        <div class="tech-category">
-          <h4>Languages</h4>
-          <div class="tech-list">
-            <span class="tech-badge">Python</span>
-            <span class="tech-badge">C#</span>
-            <span class="tech-badge">JavaScript</span>
-            <span class="tech-badge">HTML5</span>
-            <span class="tech-badge">CSS3</span>
-          </div>
-        </div>
-
-        <div class="tech-category">
-          <h4>Backend & Frameworks</h4>
-          <div class="tech-list">
-            <span class="tech-badge">.NET Core</span>
-            <span class="tech-badge">ASP.NET</span>
-            <span class="tech-badge">Django</span>
-            <span class="tech-badge">Flask</span>
-            <span class="tech-badge">REST APIs</span>
-          </div>
-        </div>
-
-        <div class="tech-category">
-          <h4>Databases & Tools</h4>
-          <div class="tech-list">
-            <span class="tech-badge">PostgreSQL</span>
-            <span class="tech-badge">SQL Server</span>
-            <span class="tech-badge">SQLite</span>
-            <span class="tech-badge">Git</span>
-            <span class="tech-badge">GitHub</span>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Featured Projects -->
-    <div class="section">
-      <h2 class="section-title">Featured Projects</h2>
-      <div class="projects-grid">
-        
-        <div class="project-card">
-          <div class="project-title">Bank Account API</div>
-          <div class="project-description">Secure banking system with comprehensive transaction processing and account management. Implements robust security protocols and RESTful architecture.</div>
-          <div class="project-tech">
-            <span class="tech-tag">Python</span>
-            <span class="tech-tag">REST API</span>
-            <span class="tech-tag">Database Design</span>
-          </div>
-          <a href="https://github.com/Noidea1001/Bank_account_api" class="project-link">View Repository →</a>
-        </div>
-
-        <div class="project-card">
-          <div class="project-title">Travel Booking System</div>
-          <div class="project-description">Full-featured travel platform with flight and hotel booking, itinerary management, and payment processing. Enterprise-level database architecture.</div>
-          <div class="project-tech">
-            <span class="tech-tag">Python</span>
-            <span class="tech-tag">Database Architecture</span>
-            <span class="tech-tag">APIs</span>
-          </div>
-          <a href="https://github.com/Noidea1001/Travel-booking-system" class="project-link">View Repository →</a>
-        </div>
-
-        <div class="project-card">
-          <div class="project-title">University Management System</div>
-          <div class="project-description">Enterprise-level system with Entity Framework Core. Manages student enrollment, courses, grades, and comprehensive reporting. Production-ready architecture.</div>
-          <div class="project-tech">
-            <span class="tech-tag">C#</span>
-            <span class="tech-tag">.NET Core</span>
-            <span class="tech-tag">Entity Framework</span>
-          </div>
-          <a href="https://github.com/Noidea1001/University-managment-EF-core" class="project-link">View Repository →</a>
-        </div>
-
-        <div class="project-card">
-          <div class="project-title">Online Learning System</div>
-          <div class="project-description">Django-powered e-learning platform with multilingual support, course management, and progress tracking. Scalable architecture with PostgreSQL backend.</div>
-          <div class="project-tech">
-            <span class="tech-tag">Django</span>
-            <span class="tech-tag">PostgreSQL</span>
-            <span class="tech-tag">Frontend</span>
-          </div>
-          <a href="https://github.com/Noidea1001/Online-learning-system" class="project-link">View Repository →</a>
-        </div>
-
-        <div class="project-card">
-          <div class="project-title">Library Management System</div>
-          <div class="project-description">Complete inventory management solution with member tracking and automated checkout system. Implements advanced database queries and business logic.</div>
-          <div class="project-tech">
-            <span class="tech-tag">HTML5</span>
-            <span class="tech-tag">CSS3</span>
-            <span class="tech-tag">Database</span>
-          </div>
-          <a href="https://github.com/Noidea1001/Library-System" class="project-link">View Repository →</a>
-        </div>
-
-        <div class="project-card">
-          <div class="project-title">POS System</div>
-          <div class="project-description">Professional point-of-sale interface for retail operations with transaction management, inventory tracking, and comprehensive reporting analytics.</div>
-          <div class="project-tech">
-            <span class="tech-tag">HTML5</span>
-            <span class="tech-tag">CSS3</span>
-            <span class="tech-tag">JavaScript</span>
-          </div>
-          <a href="https://github.com/Noidea1001/pos" class="project-link">View Repository →</a>
-        </div>
-
-        <div class="project-card">
-          <div class="project-title">Student Attendance System</div>
-          <div class="project-description">Automated attendance tracking with comprehensive report generation and advanced analytics. Demonstrates strong database architecture and backend development.</div>
-          <div class="project-tech">
-            <span class="tech-tag">Database Architecture</span>
-            <span class="tech-tag">Python</span>
-            <span class="tech-tag">Backend</span>
-          </div>
-          <a href="https://github.com/Noidea1001/Student-Attendance-Management-System" class="project-link">View Repository →</a>
-        </div>
-
-        <div class="project-card">
-          <div class="project-title">Weather Application</div>
-          <div class="project-description">Real-time weather application with location-based forecasts, interactive UI, and data visualization. Demonstrates frontend development expertise.</div>
-          <div class="project-tech">
-            <span class="tech-tag">Frontend</span>
-            <span class="tech-tag">APIs</span>
-            <span class="tech-tag">JavaScript</span>
-          </div>
-          <a href="https://github.com/Noidea1001/project-weather" class="project-link">View Repository →</a>
-        </div>
-
-      </div>
-    </div>
-
-    <!-- Core Competencies -->
-    <div class="section">
-      <h2 class="section-title">Core Competencies</h2>
-      <div class="skills-grid">
-        <div class="skill-item">
-          <h4>Backend Architecture</h4>
-          <p>RESTful APIs, SOLID Principles, Design Patterns, Microservices, Clean Code Architecture, API Gateway Patterns</p>
-        </div>
-
-        <div class="skill-item">
-          <h4>Database Design</h4>
-          <p>Normalization, Query Optimization, Entity Relationships, Schema Design, Performance Tuning, SQL Expertise</p>
-        </div>
-
-        <div class="skill-item">
-          <h4>Backend Frameworks</h4>
-          <p>ASP.NET Core, Entity Framework Core, Django, Flask, Express.js, API Development, Async Programming</p>
-        </div>
-
-        <div class="skill-item">
-          <h4>Frontend Technologies</h4>
-          <p>HTML5, CSS3, JavaScript, Bootstrap, Responsive Design, UI/UX Principles, Modern Web Standards</p>
-        </div>
-
-        <div class="skill-item">
-          <h4>Development Practices</h4>
-          <p>Git Workflow, Problem Solving, Code Reviews, Testing, Agile Methodology, Version Control, CI/CD</p>
-        </div>
-
-        <div class="skill-item">
-          <h4>System Design</h4>
-          <p>Scalability Planning, Performance Optimization, Security Implementation, Best Practices, Architecture Patterns</p>
-        </div>
-      </div>
-    </div>
-
-    <!-- Key Highlights -->
-    <div class="section">
-      <h2 class="section-title">Key Highlights</h2>
-      <div class="stats-container">
-        <div class="stats-grid">
-          <div class="stat-item">
-            <div class="stat-number">14+</div>
-            <div class="stat-label">Projects Delivered</div>
-          </div>
-          <div class="stat-item">
-            <div class="stat-number">5+</div>
-            <div class="stat-label">Tech Stacks</div>
-          </div>
-          <div class="stat-item">
-            <div class="stat-number">100%</div>
-            <div class="stat-label">Code Quality Focus</div>
-          </div>
-          <div class="stat-item">
-            <div class="stat-number">∞</div>
-            <div class="stat-label">Learning Mindset</div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-    <!-- Current Work -->
-    <div class="section">
-      <h2 class="section-title">Currently Working On</h2>
-      <div class="skills-grid">
-        <div class="skill-item">
-          <h4>Advanced API Architecture</h4>
-          <p>Implementing microservices patterns and distributed system architectures for enhanced scalability and maintainability.</p>
-        </div>
-
-        <div class="skill-item">
-          <h4>System Design Mastery</h4>
-          <p>Deep diving into scalable architecture principles, design patterns, and enterprise-level best practices.</p>
-        </div>
-
-        <div class="skill-item">
-          <h4>Enterprise Solutions</h4>
-          <p>Building production-grade systems with robust architecture, security, and performance optimization.</p>
-        </div>
-
-        <div class="skill-item">
-          <h4>Code Excellence</h4>
-          <p>Continuous improvement through systematic refactoring and implementation of advanced coding patterns.</p>
-        </div>
-
-        <div class="skill-item">
-          <h4>Performance Optimization</h4>
-          <p>Database query optimization, caching strategies, and algorithmic efficiency improvements.</p>
-        </div>
-
-        <div class="skill-item">
-          <h4>Full-Stack Integration</h4>
-          <p>Seamless integration of frontend and backend systems with modern development practices.</p>
-        </div>
-      </div>
-    </div>
-
-    <!-- Contact Section -->
-    <div class="section">
-      <div class="contact-container">
-        <div class="contact-title">Let's Work Together</div>
-        <div class="contact-links">
-          <a href="https://github.com/Noidea1001" class="contact-btn">GitHub Profile</a>
-          <a href="mailto:your.email@example.com" class="contact-btn">Send Email</a>
-          <a href="https://linkedin.com/in/your-profile" class="contact-btn">LinkedIn</a>
-          <a href="https://yourportfolio.com" class="contact-btn">Portfolio</a>
-        </div>
-        
-        <div style="margin-top: 40px;">
-          <h3 style="font-size: 1.2rem; margin-bottom: 20px; font-weight: 600;">I'm Open To</h3>
-          <div class="opportunities">
-            <div class="opp-item">Full-Time Positions</div>
-            <div class="opp-item">Contract Work</div>
-            <div class="opp-item">Technical Collaborations</div>
-            <div class="opp-item">Open Source Projects</div>
-          </div>
-        </div>
-      </div>
-    </div>
-
-  </div>
-</div>
-
-<!-- Footer -->
-<div class="footer">
-  <p>Crafted with precision and attention to detail. Last updated August 2026.</p>
-  <p style="margin-top: 10px;">Visit my GitHub repositories for complete project details and code samples.</p>
-</div>
-
-</body>
-</html>
