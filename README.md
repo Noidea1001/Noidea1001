@@ -1,116 +1,167 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=230&section=header&text=Vy%20Sal&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Full-Stack%20Developer%20%E2%80%94%20ASP.NET%20Core%20%26%20Modern%20Web&descAlignY=54&descSize=17&descColor=cdd9f7"/>
-
-<img src="https://readme-typing-svg.demolab.com/?lines=Backend-focused+full-stack+developer;ASP.NET+Core+%7C+EF+Core+%7C+REST+APIs;Building+production-grade+systems,+not+scaffolding&font=JetBrains+Mono&center=true&width=560&height=30&color=1f6feb&vCenter=true&size=15&pause=2400"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Location-Phnom_Penh-1f6feb?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Available_for-Internships-1f6feb?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Focus-Backend_%2F_Full--Stack-1f6feb?style=for-the-badge"/>
-
-</div>
-
-<br>
-
-## About
-
-I build production-quality applications with an emphasis on clean architecture and code that reads as intentional, not improvised. My background is backend-first — REST API design, relational data modeling, and authentication systems — and I take full ownership of frontend implementation when a project requires it.
-
-My work follows an API-first structure: separated repository/service layers, EF Core for data access, and a clear boundary between backend contracts and frontend consumption. Currently building full-stack systems as part of a university web programming course, with a consistent focus on production-feeling structure over minimal scaffolding.
-
-<br>
-
-## Technology
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=cs,dotnet,py,django,js,html,css,bootstrap,sqlite,postgres,git,github&theme=dark" />
-</div>
-
-<br>
-
-**Backend & Data** — C#, ASP.NET Core, ASP.NET Core Web API, Entity Framework Core, SQLite, PostgreSQL, Python, Django
-**Frontend** — JavaScript, HTML5, CSS3, Bootstrap 5
-**Tooling** — Git, GitHub, REST API design, cookie-based authentication (Identity)
-
-<br>
-
-## Architecture
-
-How I typically structure a full-stack project — data flowing from the client through a versioned API layer into the database, with authentication handled as a distinct concern.
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Noidea1001/Noidea1001/main/architecture-diagram.svg" width="100%"/>
-</div>
-
-<br>
-
-## Projects
-
-**WebTestPortal**
-Full-stack online examination platform — pure Web API backend consumed by a static HTML/JS frontend. Includes partial-credit grading, question flagging and locking, a normalized category system, and analytics dashboards for both admin and student roles.
-`ASP.NET Core 10` · `EF Core` · `SQLite` · `Vanilla JS` · `Bootstrap 5`
-[github.com/Noidea1001/WebTestPortal](https://github.com/Noidea1001/WebTestPortal)
-
-**WebPlanner**
-Task management application with a kanban board and calendar view, including a custom mobile drag-and-drop fallback built to work around native touch limitations.
-`ASP.NET Core MVC` · `C#`
-[github.com/Noidea1001/Webplanner](https://github.com/Noidea1001/Webplanner)
-
-**Online Learning System**
-Django e-learning platform with a PostgreSQL backend and Gemini-powered English–Khmer auto-translation, migrated to full Django i18n for consistent bilingual rendering without client-side flash.
-`Django` · `PostgreSQL` · `Gemini API` · `i18n`
-
-**POS System**
-Point-of-sale interface focused on clean, functional UI.
-`HTML` · `CSS`
-[github.com/Noidea1001/pos](https://github.com/Noidea1001/pos)
-
-<br>
-
-## GitHub Metrics
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Noidea1001&show_icons=true&theme=dark&hide_border=true&hide_title=true&count_private=true&title_color=1f6feb&icon_color=1f6feb" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noidea1001&layout=compact&theme=dark&hide_border=true&hide_title=true&title_color=1f6feb" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Noidea1001&theme=dark&hide_border=true&background=0d1117&ring=1f6feb&fire=1f6feb&currStreakLabel=1f6feb" />
-</div>
-
-<br>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Noidea1001&theme=react-dark&hide_border=true&bg_color=0d1117&color=1f6feb&line=1f6feb&point=ffffff" width="100%"/>
-</div>
-
-<br>
+# 👨‍💻 Noidea1001 | Full-Stack Developer
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Noidea1001/Noidea1001/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Noidea1001/Noidea1001/output/github-contribution-grid-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Noidea1001/Noidea1001/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:667eea&height=250&section=header&text=Full%20Stack%20Developer&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-</div>
+<img src="https://readme-typing-svg.demolab.com/?lines=Building%20scalable%20backend%20systems;Python%20%7C%20C%23%20%7C%20.NET%20%7C%20Django;Creating%20production-grade%20applications;RESTful%20APIs%20%26%20Database%20Architecture&font=Fira+Code&center=true&width=500&height=50&color=667eea&vCenter=true&size=18"/>
 
 <br>
 
-## Contact
-
-Open to internship opportunities and collaboration.
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-1f6feb?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1f6feb?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![GitHub](https://img.shields.io/badge/GitHub-1f6feb?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noidea1001)
+<img src="https://img.shields.io/badge/Backend%20First-667eea?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/Full%20Stack-764ba2?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Open%20for%20Opportunities-FF6B9D?style=for-the-badge&logo=handshake"/>
+<img src="https://img.shields.io/badge/Quality%20Code-4CAF50?style=for-the-badge&logo=checkmark"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:0d1117&height=120&section=footer"/>
+---
 
+## 🎯 About Me
+
+I'm a passionate **Full Stack Developer** with expertise in building robust, scalable backend systems and intuitive frontend interfaces. I follow **clean architecture principles**, emphasizing separation of concerns, code quality, and maintainability. My approach is API-first, focusing on strong data models and efficient system design.
+
+**💼 Current Focus:** Enterprise applications, system architecture, and production-grade solutions  
+**🎓 Learning:** Advanced system design patterns and cloud infrastructure  
+**🚀 Passion:** Solving complex problems with elegant code  
+
+---
+
+## 💻 Technology Stack
+
+### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Backend & Frameworks**
+![.NET](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Entity%20Framework](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### **Databases & Data**
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### **Tools & Platforms**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS%20Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual%20Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack | Link |
+|---------|-------------|-----------|------|
+| 🏦 **Bank Account API** | Secure banking system with transaction processing | Python, REST API | [View](https://github.com/Noidea1001/Bank_account_api) |
+| ✈️ **Travel Booking System** | Full-featured travel platform with booking management | Python, Database Design | [View](https://github.com/Noidea1001/Travel-booking-system) |
+| 🎓 **University Management** | Enterprise system with EF Core architecture | C#, .NET, EF Core, SQL | [View](https://github.com/Noidea1001/University-managment-EF-core) |
+| 📚 **Online Learning System** | E-learning platform with course management | Django, PostgreSQL, i18n | [View](https://github.com/Noidea1001/Online-learning-system) |
+| 📖 **Library Management** | Complete library inventory solution | HTML, CSS, Database | [View](https://github.com/Noidea1001/Library-System) |
+| 🛒 **POS System** | Retail point-of-sale interface | HTML, CSS, JavaScript | [View](https://github.com/Noidea1001/pos) |
+| 🧑‍🎓 **Attendance Management** | Student attendance tracking system | Database Architecture | [View](https://github.com/Noidea1001/Student-Attendance-Management-System) |
+| 🌤️ **Weather Application** | Real-time weather tracking app | Frontend Development | [View](https://github.com/Noidea1001/project-weather) |
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+### Stats & Contributions
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noidea1001&show_icons=true&theme=radical&bg_color=0d1117&title_color=667eea&text_color=8b949e&icon_color=667eea&border_color=667eea&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noidea1001&layout=compact&theme=radical&bg_color=0d1117&title_color=667eea&text_color=8b949e&border_color=667eea)
+
+### Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Noidea1001&theme=radical&background=0d1117&ring=667eea&fire=667eea&currStreakLabel=667eea&border=667eea)
+
+### Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noidea1001&theme=react-dark&hide_border=true&bg_color=0d1117&color=667eea&line=667eea&point=ffffff)
+
+</div>
+
+---
+
+## 🎓 Core Competencies
+
+<div align="center">
+
+| Skill Category | Details |
+|---|---|
+| **Backend Architecture** | RESTful APIs, Clean Code, SOLID Principles, Design Patterns |
+| **Database Design** | Normalization, Query Optimization, Entity Relationships, SQL |
+| **Backend Frameworks** | ASP.NET Core, Entity Framework, Django, Flask |
+| **Frontend Technologies** | HTML5, CSS3, JavaScript, Bootstrap, Responsive Design |
+| **Development Practices** | Git Workflow, Problem Solving, Code Reviews, Testing |
+| **System Design** | Scalability, Performance, Security, Best Practices |
+
+</div>
+
+---
+
+## 📈 What I'm Currently Working On
+
+- 🔧 **Advanced API Architecture** - Implementing microservices patterns
+- 📚 **System Design** - Learning scalable architecture principles
+- 🚀 **Enterprise Applications** - Building production-grade systems
+- 💡 **Code Quality** - Continuous improvement and refactoring
+- 🌐 **Full-Stack Projects** - Integrating frontend and backend seamlessly
+
+---
+
+## 🌟 Key Highlights
+
+✅ **14+ Projects** spanning multiple domains (Finance, Education, Travel, Retail)  
+✅ **Multiple Tech Stacks** - Python, C#, JavaScript, HTML/CSS  
+✅ **Clean Architecture** - Following SOLID principles and design patterns  
+✅ **Database Excellence** - Strong SQL and data modeling skills  
+✅ **Full-Stack Capability** - End-to-end project delivery  
+✅ **Production-Ready Code** - Focus on scalability and maintainability  
+
+---
+
+## 🤝 Connect & Collaborate
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub%20Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noidea1001)
+[![Email](https://img.shields.io/badge/Send%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-667eea?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+
+</div>
+
+---
+
+## 💬 Open For
+
+<div align="center">
+
+🔹 **Full-Time Opportunities** | 🔹 **Freelance Projects** | 🔹 **Technical Collaborations**  
+🔹 **Mentoring & Learning** | 🔹 **Open Source Contribution** | 🔹 **Tech Discussions**
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:667eea&height=150&section=footer&text=Let's%20Build%20Something%20Amazing!&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
+### ⭐ If you find my work interesting, please star my repositories!
+
+**Made with ❤️ by Noidea1001**
+
+</div>
