@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:FF6B9D,75:764ba2,100:667eea&height=350&section=header&text=NOIDEA1001&fontSize=120&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Developer%20%7C%20Backend%20Architect%20%7C%20Enterprise%20Systems&descSize=25&descAlignY=78&descAlign=50)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:FF6B9D,75:764ba2,100:667eea&height=350&section=header&text=NOIDEA1001&fontSize=120&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full-Stack%20Developer%20%7C%20Backend%20Architect&descSize=22&descAlignY=78)
 
 </div>
 
@@ -21,19 +21,9 @@
 
 ---
 
-<div align="center">
-
-![Divider](https://capsule-render.vercel.app/api?type=line&color=667eea&height=3)
-
-</div>
-
 ## EXECUTIVE SUMMARY
 
-<table width="100%">
-<tr>
-<td width="100%">
-
-### PROFESSIONAL OVERVIEW
+<div align="center">
 
 I am an accomplished **Full-Stack Developer** and **Backend Architect** with specialized expertise in designing and implementing scalable enterprise applications. With a deep commitment to clean architecture principles and SOLID design patterns, I create systems that are not only functional but also maintainable, performant, and production-ready.
 
@@ -48,17 +38,9 @@ I am an accomplished **Full-Stack Developer** and **Backend Architect** with spe
 **Professional Philosophy:**
 > "Build systems that don't just work today, but scale effortlessly for tomorrow. Code quality is not a luxury—it's a necessity."
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
-
-<div align="center">
-
-![Divider](https://capsule-render.vercel.app/api?type=line&color=764ba2&height=3)
-
-</div>
 
 ## COMPREHENSIVE TECHNOLOGY STACK
 
@@ -131,34 +113,32 @@ I am an accomplished **Full-Stack Developer** and **Backend Architect** with spe
 
 ### TECHNOLOGY BADGES
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=20&labelColor=1f2937)](https://python.org)
-[![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&logoWidth=20&labelColor=1f2937)](https://docs.microsoft.com/en-us/dotnet/csharp/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=20&labelColor=1f2937)](https://javascript.info)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white&logoWidth=20&labelColor=1f2937)](https://www.typescriptlang.org/)
-
-[![DotNET](https://img.shields.io/badge/.NET_CORE-512BD4?style=for-the-badge&logo=.net&logoColor=white&logoWidth=20&labelColor=1f2937)](https://dotnet.microsoft.com/)
-[![ASPNET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&logoWidth=20&labelColor=1f2937)](https://dotnet.microsoft.com/apps/aspnet)
-[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&logoWidth=20&labelColor=1f2937)](https://www.djangoproject.com/)
-[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&logoWidth=20&labelColor=1f2937)](https://flask.palletsprojects.com/)
-[![REST](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logoColor=white&logoWidth=20&labelColor=1f2937)](https://restfulapi.net/)
-
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&logoWidth=20&labelColor=1f2937)](https://www.postgresql.org/)
-[![SQLServer](https://img.shields.io/badge/SQL_SERVER-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&logoWidth=20&labelColor=1f2937)](https://www.microsoft.com/sql-server)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&logoWidth=20&labelColor=1f2937)](https://www.sqlite.org/)
-[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white&logoWidth=20&labelColor=1f2937)](https://redis.io/)
-
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&logoWidth=20&labelColor=1f2937)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20&labelColor=1f2937)](https://github.com)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoWidth=20&labelColor=1f2937)](https://www.docker.com/)
-[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&logoWidth=20&labelColor=1f2937)](https://aws.amazon.com/)
-
----
-
 <div align="center">
 
-![Divider](https://capsule-render.vercel.app/api?type=line&color=FF6B9D&height=3)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
+[![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://javascript.info)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+
+[![DotNET](https://img.shields.io/badge/.NET_CORE-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
+[![ASPNET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![REST](https://img.shields.io/badge/REST_API-FF6B35?style=for-the-badge&logoColor=white)](https://restfulapi.net/)
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQLServer](https://img.shields.io/badge/SQL_SERVER-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://www.microsoft.com/sql-server)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)](https://www.sqlite.org/)
+[![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
+
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+[![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 
 </div>
+
+---
 
 ## PORTFOLIO SHOWCASE
 
@@ -168,18 +148,18 @@ I am an accomplished **Full-Stack Developer** and **Backend Architect** with spe
 <tr>
 <td width="50%" align="center">
 
-![Project Card](https://capsule-render.vercel.app/api?type=rect&color=667eea&height=200&text=BANK%20ACCOUNT%20API&textBg=true&fontSize=28&fontColor=ffffff&desc=Secure%20Banking%20System)
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=667eea&width=480&height=120&text=BANK%20ACCOUNT%20API&fontSize=25&fontColor=ffffff&textBg=true" alt="Bank Account API">
 
 **Advanced Secure Banking Platform**
 
 | Aspect | Details |
 |--------|---------|
-| **Technology** | Python, REST API, PostgreSQL |
-| **Architecture** | Microservices, RESTful Design |
-| **Features** | Transaction Processing, Account Mgmt |
-| **Security** | Encryption, Authentication, Authorization |
-| **Database** | Complex Schema, Query Optimization |
-| **Scale** | Enterprise-Grade Production Ready |
+| Technology | Python, REST API, PostgreSQL |
+| Architecture | Microservices, RESTful Design |
+| Features | Transaction Processing, Account Mgmt |
+| Security | Encryption, Authentication, Authorization |
+| Database | Complex Schema, Query Optimization |
+| Scale | Enterprise-Grade Production Ready |
 
 **Key Achievements:**
 - Implemented secure transaction processing with audit trails
@@ -193,18 +173,18 @@ I am an accomplished **Full-Stack Developer** and **Backend Architect** with spe
 </td>
 <td width="50%" align="center">
 
-![Project Card](https://capsule-render.vercel.app/api?type=rect&color=764ba2&height=200&text=TRAVEL%20BOOKING&textBg=true&fontSize=28&fontColor=ffffff&desc=Full-Featured%20Travel%20Platform)
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=764ba2&width=480&height=120&text=TRAVEL%20BOOKING&fontSize=25&fontColor=ffffff&textBg=true" alt="Travel Booking">
 
 **Comprehensive Travel Ecosystem**
 
 | Aspect | Details |
 |--------|---------|
-| **Technology** | Python, Database Architecture, APIs |
-| **Architecture** | Service-Oriented, Event-Driven |
-| **Features** | Flight/Hotel Booking, Itineraries |
-| **Integration** | Payment Gateway, Email Notifications |
-| **Database** | Multi-table relationships, Indexing |
-| **Scale** | High-Volume Transaction Processing |
+| Technology | Python, Database Architecture, APIs |
+| Architecture | Service-Oriented, Event-Driven |
+| Features | Flight/Hotel Booking, Itineraries |
+| Integration | Payment Gateway, Email Notifications |
+| Database | Multi-table relationships, Indexing |
+| Scale | High-Volume Transaction Processing |
 
 **Key Achievements:**
 - Designed booking engine handling 1000+ concurrent users
@@ -223,18 +203,18 @@ I am an accomplished **Full-Stack Developer** and **Backend Architect** with spe
 <tr>
 <td width="50%" align="center">
 
-![Project Card](https://capsule-render.vercel.app/api?type=rect&color=FF6B9D&height=200&text=UNIVERSITY%20SYSTEM&textBg=true&fontSize=28&fontColor=ffffff&desc=Enterprise%20EF%20Core%20Solution)
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=FF6B9D&width=480&height=120&text=UNIVERSITY%20SYSTEM&fontSize=25&fontColor=ffffff&textBg=true" alt="University System">
 
 **Enterprise University Management System**
 
 | Aspect | Details |
 |--------|---------|
-| **Technology** | C#, .NET Core, Entity Framework Core |
-| **Architecture** | N-Tier, Layered Architecture |
-| **Features** | Enrollment, Courses, Grades, Reports |
-| **Database** | SQL Server, Stored Procedures, Triggers |
-| **Performance** | Optimized Queries, Caching Strategy |
-| **Scale** | Multi-tenant, Large Dataset Handling |
+| Technology | C#, .NET Core, Entity Framework Core |
+| Architecture | N-Tier, Layered Architecture |
+| Features | Enrollment, Courses, Grades, Reports |
+| Database | SQL Server, Stored Procedures, Triggers |
+| Performance | Optimized Queries, Caching Strategy |
+| Scale | Multi-tenant, Large Dataset Handling |
 
 **Key Achievements:**
 - Designed Entity Framework Core data model with 50+ entities
@@ -249,18 +229,18 @@ I am an accomplished **Full-Stack Developer** and **Backend Architect** with spe
 </td>
 <td width="50%" align="center">
 
-![Project Card](https://capsule-render.vercel.app/api?type=rect&color=4CAF50&height=200&text=ONLINE%20LEARNING&textBg=true&fontSize=28&fontColor=ffffff&desc=Django%20E-Learning%20Platform)
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=4CAF50&width=480&height=120&text=ONLINE%20LEARNING&fontSize=25&fontColor=ffffff&textBg=true" alt="Online Learning">
 
 **Scalable Online Learning Ecosystem**
 
 | Aspect | Details |
 |--------|---------|
-| **Technology** | Django, PostgreSQL, Multilingual |
-| **Architecture** | MVC, Modular Design |
-| **Features** | Courses, Progress, Assessments, i18n |
-| **Database** | Advanced Queries, Aggregation, Analytics |
-| **Frontend** | Bootstrap, Responsive Design |
-| **Scale** | 10,000+ Concurrent Students |
+| Technology | Django, PostgreSQL, Multilingual |
+| Architecture | MVC, Modular Design |
+| Features | Courses, Progress, Assessments, i18n |
+| Database | Advanced Queries, Aggregation, Analytics |
+| Frontend | Bootstrap, Responsive Design |
+| Scale | 10,000+ Concurrent Students |
 
 **Key Achievements:**
 - Architected course management with 5000+ courses
@@ -281,18 +261,18 @@ I am an accomplished **Full-Stack Developer** and **Backend Architect** with spe
 <tr>
 <td width="50%" align="center">
 
-![Project Card](https://capsule-render.vercel.app/api?type=rect&color=FFB700&height=200&text=LIBRARY%20SYSTEM&textBg=true&fontSize=28&fontColor=ffffff&desc=Complete%20Inventory%20Solution)
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=FFB700&width=480&height=120&text=LIBRARY%20SYSTEM&fontSize=25&fontColor=ffffff&textBg=true" alt="Library System">
 
 **Comprehensive Library Management System**
 
 | Aspect | Details |
 |--------|---------|
-| **Technology** | HTML5, CSS3, JavaScript, Database |
-| **Architecture** | Client-Server, Responsive Design |
-| **Features** | Cataloging, Member Mgmt, Checkout |
-| **Database** | Relational, Transactions, Constraints |
-| **UI/UX** | Modern Interface, Accessibility |
-| **Scale** | 100,000+ Book Records |
+| Technology | HTML5, CSS3, JavaScript, Database |
+| Architecture | Client-Server, Responsive Design |
+| Features | Cataloging, Member Mgmt, Checkout |
+| Database | Relational, Transactions, Constraints |
+| UI/UX | Modern Interface, Accessibility |
+| Scale | 100,000+ Book Records |
 
 **Key Achievements:**
 - Designed for 50,000+ library members
@@ -307,18 +287,18 @@ I am an accomplished **Full-Stack Developer** and **Backend Architect** with spe
 </td>
 <td width="50%" align="center">
 
-![Project Card](https://capsule-render.vercel.app/api?type=rect&color=FF1744&height=200&text=POS%20SYSTEM&textBg=true&fontSize=28&fontColor=ffffff&desc=Professional%20POS%20Interface)
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=FF1744&width=480&height=120&text=POS%20SYSTEM&fontSize=25&fontColor=ffffff&textBg=true" alt="POS System">
 
 **Enterprise Retail Point-of-Sale System**
 
 | Aspect | Details |
 |--------|---------|
-| **Technology** | HTML5, CSS3, JavaScript, Real-time |
-| **Architecture** | Single-Page Application (SPA) |
-| **Features** | Sales, Inventory, Reporting, Analytics |
-| **Database** | Transaction Logging, Audit Trails |
-| **UI/UX** | Intuitive Design, Fast Processing |
-| **Scale** | Multi-store, Syncing Capability |
+| Technology | HTML5, CSS3, JavaScript, Real-time |
+| Architecture | Single-Page Application (SPA) |
+| Features | Sales, Inventory, Reporting, Analytics |
+| Database | Transaction Logging, Audit Trails |
+| UI/UX | Intuitive Design, Fast Processing |
+| Scale | Multi-store, Syncing Capability |
 
 **Key Achievements:**
 - Handles 500+ transactions/day per store
@@ -338,18 +318,18 @@ I am an accomplished **Full-Stack Developer** and **Backend Architect** with spe
 <tr>
 <td width="50%" align="center">
 
-![Project Card](https://capsule-render.vercel.app/api?type=rect&color=00BCD4&height=200&text=ATTENDANCE%20SYSTEM&textBg=true&fontSize=28&fontColor=ffffff&desc=Automated%20Tracking%20Solution)
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=00BCD4&width=480&height=120&text=ATTENDANCE%20SYSTEM&fontSize=25&fontColor=ffffff&textBg=true" alt="Attendance System">
 
 **Intelligent Student Attendance Management**
 
 | Aspect | Details |
 |--------|---------|
-| **Technology** | Database Architecture, Python, Backend |
-| **Architecture** | Data-Driven, Analytics-Focused |
-| **Features** | Auto-Tracking, Reports, Insights |
-| **Database** | Complex Aggregations, Analytics Queries |
-| **Analytics** | Attendance Patterns, Predictions |
-| **Scale** | 10,000+ Students, 1000+ Classes |
+| Technology | Database Architecture, Python, Backend |
+| Architecture | Data-Driven, Analytics-Focused |
+| Features | Auto-Tracking, Reports, Insights |
+| Database | Complex Aggregations, Analytics Queries |
+| Analytics | Attendance Patterns, Predictions |
+| Scale | 10,000+ Students, 1000+ Classes |
 
 **Key Achievements:**
 - Automated daily attendance processing
@@ -364,18 +344,18 @@ I am an accomplished **Full-Stack Developer** and **Backend Architect** with spe
 </td>
 <td width="50%" align="center">
 
-![Project Card](https://capsule-render.vercel.app/api?type=rect&color=8BC34A&height=200&text=WEATHER%20APPLICATION&textBg=true&fontSize=28&fontColor=ffffff&desc=Real-Time%20Weather%20App)
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=8BC34A&width=480&height=120&text=WEATHER%20APPLICATION&fontSize=25&fontColor=ffffff&textBg=true" alt="Weather App">
 
 **Modern Weather Intelligence Platform**
 
 | Aspect | Details |
 |--------|---------|
-| **Technology** | Frontend, REST APIs, JavaScript |
-| **Architecture** | API-Driven, Real-time Updates |
-| **Features** | Forecasts, Alerts, Visualizations |
-| **Data Integration** | Third-party Weather APIs |
-| **UI/UX** | Interactive Maps, Charts, Graphics |
-| **Scale** | 100,000+ Daily Active Users |
+| Technology | Frontend, REST APIs, JavaScript |
+| Architecture | API-Driven, Real-time Updates |
+| Features | Forecasts, Alerts, Visualizations |
+| Data Integration | Third-party Weather APIs |
+| UI/UX | Interactive Maps, Charts, Graphics |
+| Scale | 100,000+ Daily Active Users |
 
 **Key Achievements:**
 - Integrated multiple weather data sources
@@ -393,22 +373,9 @@ I am an accomplished **Full-Stack Developer** and **Backend Architect** with spe
 
 ---
 
-<div align="center">
-
-![Divider](https://capsule-render.vercel.app/api?type=line&color=667eea&height=3)
-
-</div>
-
 ## PROFESSIONAL EXPERTISE MATRIX
 
 <table width="100%">
-<tr>
-<td colspan="3" align="center">
-
-### ADVANCED SKILL BREAKDOWN
-
-</td>
-</tr>
 <tr>
 <td width="33%" align="center">
 
@@ -536,12 +503,6 @@ I am an accomplished **Full-Stack Developer** and **Backend Architect** with spe
 
 ---
 
-<div align="center">
-
-![Divider](https://capsule-render.vercel.app/api?type=line&color=764ba2&height=3)
-
-</div>
-
 ## GITHUB ANALYTICS & CONTRIBUTIONS
 
 <div align="center">
@@ -565,12 +526,6 @@ I am an accomplished **Full-Stack Developer** and **Backend Architect** with spe
 </div>
 
 ---
-
-<div align="center">
-
-![Divider](https://capsule-render.vercel.app/api?type=line&color=FF6B9D&height=3)
-
-</div>
 
 ## CURRENT DEVELOPMENT FOCUS
 
@@ -609,12 +564,6 @@ I am an accomplished **Full-Stack Developer** and **Backend Architect** with spe
 
 ---
 
-<div align="center">
-
-![Divider](https://capsule-render.vercel.app/api?type=line&color=667eea&height=3)
-
-</div>
-
 ## PROFESSIONAL CERTIFICATIONS & RECOGNITION
 
 <div align="center">
@@ -640,12 +589,6 @@ I am an accomplished **Full-Stack Developer** and **Backend Architect** with spe
 
 ---
 
-<div align="center">
-
-![Divider](https://capsule-render.vercel.app/api?type=line&color=764ba2&height=3)
-
-</div>
-
 ## COLLABORATION & OPPORTUNITIES
 
 <div align="center">
@@ -665,11 +608,7 @@ I am an accomplished **Full-Stack Developer** and **Backend Architect** with spe
 
 ---
 
-<div align="center">
-
 ![Footer Banner](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,25:764ba2,50:FF6B9D,75:764ba2,100:667eea&height=250&section=footer&text=Let's%20Build%20the%20Future&fontSize=50&fontColor=ffffff&animation=fadeIn)
-
-</div>
 
 ---
 
@@ -679,11 +618,11 @@ I am an accomplished **Full-Stack Developer** and **Backend Architect** with spe
 
 ### Connect Across Platforms
 
-[![GitHub](https://img.shields.io/badge/GITHUB-Profile-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20)](https://github.com/Noidea1001)
-[![Email](https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:your.email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Website-667eea?style=for-the-badge&logo=firefox&logoColor=white&logoWidth=20)](https://yourportfolio.com)
-[![Twitter](https://img.shields.io/badge/TWITTER-Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoWidth=20)](https://twitter.com/yourhandle)
+[![GitHub](https://img.shields.io/badge/GITHUB-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noidea1001)
+[![Email](https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Professional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-Website-667eea?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+[![Twitter](https://img.shields.io/badge/TWITTER-Updates-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 
 ---
 
