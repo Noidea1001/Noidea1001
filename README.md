@@ -1,378 +1,706 @@
-# 👨‍💻 Noidea1001 | Full-Stack Developer
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
 
-<div align="center">
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
+    color: #e2e8f0;
+    line-height: 1.6;
+    min-height: 100vh;
+  }
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:667eea&height=280&section=header&text=Noidea1001&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
 
+  /* Header Section */
+  .header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    padding: 80px 20px;
+    text-align: center;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    clip-path: polygon(0 0, 100% 0, 100% 85%, 0 100%);
+  }
+
+  .header h1 {
+    font-size: 4rem;
+    font-weight: 700;
+    margin-bottom: 10px;
+    text-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+  }
+
+  .header p {
+    font-size: 1.3rem;
+    opacity: 0.95;
+    font-weight: 300;
+    letter-spacing: 1px;
+  }
+
+  .role-badge {
+    display: inline-block;
+    background: rgba(255, 255, 255, 0.15);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    padding: 12px 30px;
+    border-radius: 50px;
+    margin-top: 20px;
+    font-size: 0.95rem;
+    backdrop-filter: blur(10px);
+    font-weight: 500;
+  }
+
+  /* Main Content */
+  .content {
+    padding: 60px 20px;
+  }
+
+  /* Sections */
+  .section {
+    margin-bottom: 80px;
+  }
+
+  .section-title {
+    font-size: 2.2rem;
+    font-weight: 700;
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    border-bottom: 2px solid #667eea;
+    position: relative;
+    display: inline-block;
+  }
+
+  .section-title::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    height: 2px;
+    width: 100%;
+    background: linear-gradient(90deg, #667eea, #764ba2, transparent);
+  }
+
+  /* About Section */
+  .about-content {
+    background: rgba(30, 41, 59, 0.8);
+    border-left: 4px solid #667eea;
+    padding: 40px;
+    border-radius: 8px;
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+  }
+
+  .about-content h3 {
+    font-size: 1.3rem;
+    margin-top: 20px;
+    margin-bottom: 12px;
+    color: #667eea;
+    font-weight: 600;
+  }
+
+  .about-content p {
+    font-size: 1.05rem;
+    line-height: 1.8;
+    color: #cbd5e1;
+    margin-bottom: 15px;
+  }
+
+  /* Tech Stack */
+  .tech-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 40px;
+    margin-top: 30px;
+  }
+
+  .tech-category {
+    background: rgba(30, 41, 59, 0.8);
+    border-radius: 8px;
+    padding: 30px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    transition: all 0.3s ease;
+  }
+
+  .tech-category:hover {
+    border-color: #667eea;
+    box-shadow: 0 8px 32px rgba(102, 126, 234, 0.15);
+    transform: translateY(-5px);
+  }
+
+  .tech-category h4 {
+    font-size: 1.2rem;
+    color: #667eea;
+    margin-bottom: 20px;
+    font-weight: 600;
+  }
+
+  .tech-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+
+  .tech-badge {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    padding: 8px 16px;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    font-weight: 500;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+  }
+
+  /* Projects Section */
+  .projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 30px;
+    margin-top: 30px;
+  }
+
+  .project-card {
+    background: rgba(30, 41, 59, 0.8);
+    border-radius: 8px;
+    padding: 30px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .project-card::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 4px;
+    background: linear-gradient(90deg, #667eea, #764ba2);
+  }
+
+  .project-card:hover {
+    border-color: #667eea;
+    box-shadow: 0 12px 40px rgba(102, 126, 234, 0.2);
+    transform: translateY(-8px);
+  }
+
+  .project-title {
+    font-size: 1.3rem;
+    font-weight: 700;
+    margin-bottom: 12px;
+    color: #f1f5f9;
+  }
+
+  .project-description {
+    color: #cbd5e1;
+    margin-bottom: 18px;
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+
+  .project-tech {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 18px;
+  }
+
+  .tech-tag {
+    background: rgba(102, 126, 234, 0.15);
+    color: #a5b4fc;
+    padding: 6px 12px;
+    border-radius: 4px;
+    font-size: 0.85rem;
+    border: 1px solid rgba(102, 126, 234, 0.3);
+  }
+
+  .project-link {
+    display: inline-block;
+    color: #667eea;
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 0.95rem;
+    transition: all 0.3s ease;
+    padding-bottom: 2px;
+    border-bottom: 2px solid transparent;
+  }
+
+  .project-link:hover {
+    color: #764ba2;
+    border-bottom-color: #764ba2;
+  }
+
+  /* Skills Section */
+  .skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 25px;
+    margin-top: 30px;
+  }
+
+  .skill-item {
+    background: rgba(30, 41, 59, 0.8);
+    padding: 25px;
+    border-radius: 8px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+  }
+
+  .skill-item h4 {
+    color: #667eea;
+    font-size: 1.1rem;
+    margin-bottom: 15px;
+    font-weight: 600;
+  }
+
+  .skill-item p {
+    color: #cbd5e1;
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+
+  /* Stats Section */
+  .stats-container {
+    background: rgba(30, 41, 59, 0.8);
+    border-radius: 8px;
+    padding: 40px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    backdrop-filter: blur(10px);
+    margin-top: 30px;
+  }
+
+  .stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 25px;
+    text-align: center;
+  }
+
+  .stat-item {
+    padding: 20px;
+  }
+
+  .stat-number {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #667eea;
+    margin-bottom: 8px;
+  }
+
+  .stat-label {
+    color: #cbd5e1;
+    font-size: 0.95rem;
+  }
+
+  /* Contact Section */
+  .contact-container {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    border-radius: 8px;
+    padding: 50px;
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  .contact-title {
+    font-size: 2rem;
+    font-weight: 700;
+    margin-bottom: 30px;
+  }
+
+  .contact-links {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-bottom: 30px;
+  }
+
+  .contact-btn {
+    background: rgba(255, 255, 255, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.3);
+    color: white;
+    padding: 12px 30px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all 0.3s ease;
+    backdrop-filter: blur(10px);
+  }
+
+  .contact-btn:hover {
+    background: rgba(255, 255, 255, 0.3);
+    border-color: rgba(255, 255, 255, 0.5);
+  }
+
+  .opportunities {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 15px;
+    margin-top: 20px;
+    justify-content: center;
+  }
+
+  .opp-item {
+    background: rgba(255, 255, 255, 0.1);
+    padding: 15px;
+    border-radius: 4px;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    font-weight: 500;
+  }
+
+  /* Footer */
+  .footer {
+    text-align: center;
+    padding: 40px 20px;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+    color: #94a3b8;
+    font-size: 0.95rem;
+  }
+
+  /* Responsive */
+  @media (max-width: 768px) {
+    .header h1 {
+      font-size: 2.5rem;
+    }
+
+    .header p {
+      font-size: 1.1rem;
+    }
+
+    .section-title {
+      font-size: 1.8rem;
+    }
+
+    .projects-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .tech-grid {
+      grid-template-columns: 1fr;
+    }
+  }
+
+  /* Animations */
+  @keyframes slideUp {
+    from {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .section {
+    animation: slideUp 0.6s ease-out;
+  }
+</style>
+</head>
+<body>
+
+<!-- Header -->
+<div class="header">
+  <div class="container">
+    <h1>Noidea1001</h1>
+    <p>Full-Stack Developer & Backend Specialist</p>
+    <div class="role-badge">Building Production-Grade Enterprise Solutions</div>
+  </div>
 </div>
 
----
+<!-- Main Content -->
+<div class="container">
+  <div class="content">
 
-## <div align="center"><img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack%20Developer%20%7C%20Backend%20Specialist;Building%20Scalable%20%26%20Production-Grade%20Systems;Python%20%7C%20C%23%20%7C%20.NET%20%7C%20Django%20%7C%20REST%20APIs&font=Fira+Code&center=true&width=600&height=60&color=667eea&vCenter=true&size=20&duration=4000" alt="typing svg"></div>
-
-<br>
-
-<div align="center">
-
-<table>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/💻_Backend_First-667eea?style=for-the-badge"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/🏗️_Clean_Architecture-764ba2?style=for-the-badge"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/🚀_Production_Ready-FF6B9D?style=for-the-badge"/>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <img src="https://img.shields.io/badge/🎯_Problem_Solver-4CAF50?style=for-the-badge"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/✨_Code_Quality-FFB700?style=for-the-badge"/>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/🤝_Open_to_Opportunities-FF1744?style=for-the-badge"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 10px; margin: 20px 0;">
-
-## 🎯 About Me
-
-I'm a **Full-Stack Developer** with deep expertise in **backend systems architecture** and **database design**. I build **production-grade applications** following **SOLID principles** and **clean code** practices. My work emphasizes **scalability**, **performance**, and **maintainability**.
-
-**🔧 Specialization:** API Design | Database Architecture | System Design  
-**📊 Focus Areas:** Enterprise Applications | Microservices | Data-Driven Solutions  
-**💡 Philosophy:** Write code that solves problems elegantly and scales effortlessly
-
-</div>
-
----
-
-## 💻 Technology Arsenal
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <h4>🐍 Languages</h4>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/><br>
-      <img src="https://img.shields.io/badge/HTML5-E34C26?style=flat-square&logo=html5&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-    </td>
-    <td align="center">
-      <h4>⚙️ Backend & Frameworks</h4>
-      <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=flat-square&logo=.net&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=.net&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/REST_APIs-FF5733?style=flat-square&logo=api&logoColor=white"/>
-    </td>
-    <td align="center">
-      <h4>🗄️ Databases & Tools</h4>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🏆 Featured Projects Showcase
-
-<div align="center">
-
-### <div style="color: #667eea; font-size: 20px; font-weight: bold; margin: 15px 0;">Premium Projects | Enterprise Solutions</div>
-
-</div>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%">
-      <div style="border-left: 4px solid #667eea; padding: 15px; background: #f8f9fa; border-radius: 5px;">
+    <!-- About Section -->
+    <div class="section">
+      <h2 class="section-title">About</h2>
+      <div class="about-content">
+        <p>I am a full-stack developer with deep expertise in building scalable, production-grade applications. My focus is on clean architecture, database optimization, and enterprise-level system design. I specialize in backend development with a strong foundation in RESTful APIs and microservices architecture.</p>
         
-**🏦 Bank Account API**
+        <h3>Current Focus</h3>
+        <p>Enterprise applications, system architecture, and production-ready solutions</p>
+        
+        <h3>Specialization</h3>
+        <p>API Design | Database Architecture | System Design | Backend Development</p>
+        
+        <h3>Philosophy</h3>
+        <p>Write code that solves problems elegantly, scales effortlessly, and maintains clarity throughout the codebase.</p>
+      </div>
+    </div>
 
-Secure banking system with comprehensive transaction processing and account management.
+    <!-- Technology Stack -->
+    <div class="section">
+      <h2 class="section-title">Technology Stack</h2>
+      <div class="tech-grid">
+        <div class="tech-category">
+          <h4>Languages</h4>
+          <div class="tech-list">
+            <span class="tech-badge">Python</span>
+            <span class="tech-badge">C#</span>
+            <span class="tech-badge">JavaScript</span>
+            <span class="tech-badge">HTML5</span>
+            <span class="tech-badge">CSS3</span>
+          </div>
+        </div>
 
-**Tech:** Python, REST API, Database Design  
-**Features:** Account Management, Transactions, Security
+        <div class="tech-category">
+          <h4>Backend & Frameworks</h4>
+          <div class="tech-list">
+            <span class="tech-badge">.NET Core</span>
+            <span class="tech-badge">ASP.NET</span>
+            <span class="tech-badge">Django</span>
+            <span class="tech-badge">Flask</span>
+            <span class="tech-badge">REST APIs</span>
+          </div>
+        </div>
 
-[→ Explore Project](https://github.com/Noidea1001/Bank_account_api)
+        <div class="tech-category">
+          <h4>Databases & Tools</h4>
+          <div class="tech-list">
+            <span class="tech-badge">PostgreSQL</span>
+            <span class="tech-badge">SQL Server</span>
+            <span class="tech-badge">SQLite</span>
+            <span class="tech-badge">Git</span>
+            <span class="tech-badge">GitHub</span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Featured Projects -->
+    <div class="section">
+      <h2 class="section-title">Featured Projects</h2>
+      <div class="projects-grid">
+        
+        <div class="project-card">
+          <div class="project-title">Bank Account API</div>
+          <div class="project-description">Secure banking system with comprehensive transaction processing and account management. Implements robust security protocols and RESTful architecture.</div>
+          <div class="project-tech">
+            <span class="tech-tag">Python</span>
+            <span class="tech-tag">REST API</span>
+            <span class="tech-tag">Database Design</span>
+          </div>
+          <a href="https://github.com/Noidea1001/Bank_account_api" class="project-link">View Repository →</a>
+        </div>
+
+        <div class="project-card">
+          <div class="project-title">Travel Booking System</div>
+          <div class="project-description">Full-featured travel platform with flight and hotel booking, itinerary management, and payment processing. Enterprise-level database architecture.</div>
+          <div class="project-tech">
+            <span class="tech-tag">Python</span>
+            <span class="tech-tag">Database Architecture</span>
+            <span class="tech-tag">APIs</span>
+          </div>
+          <a href="https://github.com/Noidea1001/Travel-booking-system" class="project-link">View Repository →</a>
+        </div>
+
+        <div class="project-card">
+          <div class="project-title">University Management System</div>
+          <div class="project-description">Enterprise-level system with Entity Framework Core. Manages student enrollment, courses, grades, and comprehensive reporting. Production-ready architecture.</div>
+          <div class="project-tech">
+            <span class="tech-tag">C#</span>
+            <span class="tech-tag">.NET Core</span>
+            <span class="tech-tag">Entity Framework</span>
+          </div>
+          <a href="https://github.com/Noidea1001/University-managment-EF-core" class="project-link">View Repository →</a>
+        </div>
+
+        <div class="project-card">
+          <div class="project-title">Online Learning System</div>
+          <div class="project-description">Django-powered e-learning platform with multilingual support, course management, and progress tracking. Scalable architecture with PostgreSQL backend.</div>
+          <div class="project-tech">
+            <span class="tech-tag">Django</span>
+            <span class="tech-tag">PostgreSQL</span>
+            <span class="tech-tag">Frontend</span>
+          </div>
+          <a href="https://github.com/Noidea1001/Online-learning-system" class="project-link">View Repository →</a>
+        </div>
+
+        <div class="project-card">
+          <div class="project-title">Library Management System</div>
+          <div class="project-description">Complete inventory management solution with member tracking and automated checkout system. Implements advanced database queries and business logic.</div>
+          <div class="project-tech">
+            <span class="tech-tag">HTML5</span>
+            <span class="tech-tag">CSS3</span>
+            <span class="tech-tag">Database</span>
+          </div>
+          <a href="https://github.com/Noidea1001/Library-System" class="project-link">View Repository →</a>
+        </div>
+
+        <div class="project-card">
+          <div class="project-title">POS System</div>
+          <div class="project-description">Professional point-of-sale interface for retail operations with transaction management, inventory tracking, and comprehensive reporting analytics.</div>
+          <div class="project-tech">
+            <span class="tech-tag">HTML5</span>
+            <span class="tech-tag">CSS3</span>
+            <span class="tech-tag">JavaScript</span>
+          </div>
+          <a href="https://github.com/Noidea1001/pos" class="project-link">View Repository →</a>
+        </div>
+
+        <div class="project-card">
+          <div class="project-title">Student Attendance System</div>
+          <div class="project-description">Automated attendance tracking with comprehensive report generation and advanced analytics. Demonstrates strong database architecture and backend development.</div>
+          <div class="project-tech">
+            <span class="tech-tag">Database Architecture</span>
+            <span class="tech-tag">Python</span>
+            <span class="tech-tag">Backend</span>
+          </div>
+          <a href="https://github.com/Noidea1001/Student-Attendance-Management-System" class="project-link">View Repository →</a>
+        </div>
+
+        <div class="project-card">
+          <div class="project-title">Weather Application</div>
+          <div class="project-description">Real-time weather application with location-based forecasts, interactive UI, and data visualization. Demonstrates frontend development expertise.</div>
+          <div class="project-tech">
+            <span class="tech-tag">Frontend</span>
+            <span class="tech-tag">APIs</span>
+            <span class="tech-tag">JavaScript</span>
+          </div>
+          <a href="https://github.com/Noidea1001/project-weather" class="project-link">View Repository →</a>
+        </div>
 
       </div>
-    </td>
-    <td width="50%">
-      <div style="border-left: 4px solid #764ba2; padding: 15px; background: #f8f9fa; border-radius: 5px;">
-        
-**✈️ Travel Booking System**
+    </div>
 
-Full-featured travel platform with booking, itinerary, and payment management.
+    <!-- Core Competencies -->
+    <div class="section">
+      <h2 class="section-title">Core Competencies</h2>
+      <div class="skills-grid">
+        <div class="skill-item">
+          <h4>Backend Architecture</h4>
+          <p>RESTful APIs, SOLID Principles, Design Patterns, Microservices, Clean Code Architecture, API Gateway Patterns</p>
+        </div>
 
-**Tech:** Python, Database Architecture, APIs  
-**Features:** Flight/Hotel Booking, Itineraries, Payments
+        <div class="skill-item">
+          <h4>Database Design</h4>
+          <p>Normalization, Query Optimization, Entity Relationships, Schema Design, Performance Tuning, SQL Expertise</p>
+        </div>
 
-[→ Explore Project](https://github.com/Noidea1001/Travel-booking-system)
+        <div class="skill-item">
+          <h4>Backend Frameworks</h4>
+          <p>ASP.NET Core, Entity Framework Core, Django, Flask, Express.js, API Development, Async Programming</p>
+        </div>
 
+        <div class="skill-item">
+          <h4>Frontend Technologies</h4>
+          <p>HTML5, CSS3, JavaScript, Bootstrap, Responsive Design, UI/UX Principles, Modern Web Standards</p>
+        </div>
+
+        <div class="skill-item">
+          <h4>Development Practices</h4>
+          <p>Git Workflow, Problem Solving, Code Reviews, Testing, Agile Methodology, Version Control, CI/CD</p>
+        </div>
+
+        <div class="skill-item">
+          <h4>System Design</h4>
+          <p>Scalability Planning, Performance Optimization, Security Implementation, Best Practices, Architecture Patterns</p>
+        </div>
       </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <div style="border-left: 4px solid #FF6B9D; padding: 15px; background: #f8f9fa; border-radius: 5px;">
-        
-**🎓 University Management System**
+    </div>
 
-Enterprise-level system with EF Core architecture for student and course management.
-
-**Tech:** C#, .NET, Entity Framework Core, SQL  
-**Features:** Enrollment, Courses, Grades, Reports
-
-[→ Explore Project](https://github.com/Noidea1001/University-managment-EF-core)
-
+    <!-- Key Highlights -->
+    <div class="section">
+      <h2 class="section-title">Key Highlights</h2>
+      <div class="stats-container">
+        <div class="stats-grid">
+          <div class="stat-item">
+            <div class="stat-number">14+</div>
+            <div class="stat-label">Projects Delivered</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-number">5+</div>
+            <div class="stat-label">Tech Stacks</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-number">100%</div>
+            <div class="stat-label">Code Quality Focus</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-number">∞</div>
+            <div class="stat-label">Learning Mindset</div>
+          </div>
+        </div>
       </div>
-    </td>
-    <td width="50%">
-      <div style="border-left: 4px solid #4CAF50; padding: 15px; background: #f8f9fa; border-radius: 5px;">
-        
-**📚 Online Learning System**
+    </div>
 
-Django-powered e-learning platform with multilingual support and course management.
+    <!-- Current Work -->
+    <div class="section">
+      <h2 class="section-title">Currently Working On</h2>
+      <div class="skills-grid">
+        <div class="skill-item">
+          <h4>Advanced API Architecture</h4>
+          <p>Implementing microservices patterns and distributed system architectures for enhanced scalability and maintainability.</p>
+        </div>
 
-**Tech:** Django, PostgreSQL, i18n, Frontend  
-**Features:** Courses, Progress Tracking, Assessments
+        <div class="skill-item">
+          <h4>System Design Mastery</h4>
+          <p>Deep diving into scalable architecture principles, design patterns, and enterprise-level best practices.</p>
+        </div>
 
-[→ Explore Project](https://github.com/Noidea1001/Online-learning-system)
+        <div class="skill-item">
+          <h4>Enterprise Solutions</h4>
+          <p>Building production-grade systems with robust architecture, security, and performance optimization.</p>
+        </div>
 
+        <div class="skill-item">
+          <h4>Code Excellence</h4>
+          <p>Continuous improvement through systematic refactoring and implementation of advanced coding patterns.</p>
+        </div>
+
+        <div class="skill-item">
+          <h4>Performance Optimization</h4>
+          <p>Database query optimization, caching strategies, and algorithmic efficiency improvements.</p>
+        </div>
+
+        <div class="skill-item">
+          <h4>Full-Stack Integration</h4>
+          <p>Seamless integration of frontend and backend systems with modern development practices.</p>
+        </div>
       </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <div style="border-left: 4px solid #FFB700; padding: 15px; background: #f8f9fa; border-radius: 5px;">
+    </div>
+
+    <!-- Contact Section -->
+    <div class="section">
+      <div class="contact-container">
+        <div class="contact-title">Let's Work Together</div>
+        <div class="contact-links">
+          <a href="https://github.com/Noidea1001" class="contact-btn">GitHub Profile</a>
+          <a href="mailto:your.email@example.com" class="contact-btn">Send Email</a>
+          <a href="https://linkedin.com/in/your-profile" class="contact-btn">LinkedIn</a>
+          <a href="https://yourportfolio.com" class="contact-btn">Portfolio</a>
+        </div>
         
-**📖 Library Management System**
-
-Complete inventory management with member tracking and automated checkout system.
-
-**Tech:** HTML, CSS, JavaScript, Database  
-**Features:** Cataloging, Member Mgmt, Checkout System
-
-[→ Explore Project](https://github.com/Noidea1001/Library-System)
-
+        <div style="margin-top: 40px;">
+          <h3 style="font-size: 1.2rem; margin-bottom: 20px; font-weight: 600;">I'm Open To</h3>
+          <div class="opportunities">
+            <div class="opp-item">Full-Time Positions</div>
+            <div class="opp-item">Contract Work</div>
+            <div class="opp-item">Technical Collaborations</div>
+            <div class="opp-item">Open Source Projects</div>
+          </div>
+        </div>
       </div>
-    </td>
-    <td width="50%">
-      <div style="border-left: 4px solid #FF1744; padding: 15px; background: #f8f9fa; border-radius: 5px;">
-        
-**🛒 POS System**
+    </div>
 
-Professional point-of-sale interface for retail operations with transaction management.
-
-**Tech:** HTML, CSS, JavaScript, UI/UX  
-**Features:** Sales, Inventory, Reports, Analytics
-
-[→ Explore Project](https://github.com/Noidea1001/pos)
-
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <div style="border-left: 4px solid #00BCD4; padding: 15px; background: #f8f9fa; border-radius: 5px;">
-        
-**🧑‍🎓 Student Attendance System**
-
-Automated attendance tracking with report generation and analytics.
-
-**Tech:** Database Architecture, Python, Backend  
-**Features:** Auto Tracking, Reports, Analytics
-
-[→ Explore Project](https://github.com/Noidea1001/Student-Attendance-Management-System)
-
-      </div>
-    </td>
-    <td width="50%">
-      <div style="border-left: 4px solid #8BC34A; padding: 15px; background: #f8f9fa; border-radius: 5px;">
-        
-**🌤️ Weather Application**
-
-Real-time weather application with location-based forecasts and interactive UI.
-
-**Tech:** Frontend Development, APIs, JavaScript  
-**Features:** Live Data, Forecasts, Visualization
-
-[→ Explore Project](https://github.com/Noidea1001/project-weather)
-
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Analytics & Activity
-
-<div align="center">
-
-### Developer Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noidea1001&show_icons=true&theme=radical&bg_color=0d1117&title_color=667eea&text_color=8b949e&icon_color=667eea&border_color=667eea&count_private=true&include_all_commits=true)
-
-### Language Proficiency
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noidea1001&layout=compact&theme=radical&bg_color=0d1117&title_color=667eea&text_color=8b949e&border_color=667eea&hide=html,css)
-
-### Contribution Metrics
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Noidea1001&theme=radical&background=0d1117&ring=667eea&fire=667eea&currStreakLabel=667eea&border=667eea)
-
-### Activity Timeline
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noidea1001&theme=react-dark&hide_border=true&bg_color=0d1117&color=667eea&line=667eea&point=ffffff)
-
+  </div>
 </div>
 
----
-
-## 🎯 Core Competencies & Expertise
-
-<div align="center">
-
-<table style="border-collapse: collapse; width: 100%;">
-  <tr style="background: linear-gradient(90deg, #667eea, #764ba2);">
-    <th style="color: white; padding: 15px; text-align: left; border: 1px solid #ddd;">📌 Skill Category</th>
-    <th style="color: white; padding: 15px; text-align: left; border: 1px solid #ddd;">💼 Technical Details</th>
-  </tr>
-  <tr style="background: #f8f9fa;">
-    <td style="padding: 12px; border: 1px solid #ddd;"><strong>🏗️ Backend Architecture</strong></td>
-    <td style="padding: 12px; border: 1px solid #ddd;">RESTful APIs · SOLID Principles · Design Patterns · Clean Code · Microservices</td>
-  </tr>
-  <tr>
-    <td style="padding: 12px; border: 1px solid #ddd;"><strong>🗄️ Database Design</strong></td>
-    <td style="padding: 12px; border: 1px solid #ddd;">Normalization · Query Optimization · Entity Relationships · Schema Design · Performance Tuning</td>
-  </tr>
-  <tr style="background: #f8f9fa;">
-    <td style="padding: 12px; border: 1px solid #ddd;"><strong>⚙️ Backend Frameworks</strong></td>
-    <td style="padding: 12px; border: 1px solid #ddd;">ASP.NET Core · Entity Framework · Django · Flask · API Development</td>
-  </tr>
-  <tr>
-    <td style="padding: 12px; border: 1px solid #ddd;"><strong>🎨 Frontend Technologies</strong></td>
-    <td style="padding: 12px; border: 1px solid #ddd;">HTML5 · CSS3 · JavaScript · Bootstrap · Responsive Design · UI/UX</td>
-  </tr>
-  <tr style="background: #f8f9fa;">
-    <td style="padding: 12px; border: 1px solid #ddd;"><strong>🔄 Development Practices</strong></td>
-    <td style="padding: 12px; border: 1px solid #ddd;">Git Workflow · Problem Solving · Code Reviews · Testing · Agile Methodology</td>
-  </tr>
-  <tr>
-    <td style="padding: 12px; border: 1px solid #ddd;"><strong>📈 System Design</strong></td>
-    <td style="padding: 12px; border: 1px solid #ddd;">Scalability · Performance Optimization · Security · Best Practices · Architecture Patterns</td>
-  </tr>
-</table>
-
+<!-- Footer -->
+<div class="footer">
+  <p>Crafted with precision and attention to detail. Last updated August 2026.</p>
+  <p style="margin-top: 10px;">Visit my GitHub repositories for complete project details and code samples.</p>
 </div>
 
----
-
-## 🚀 Currently Working On
-
-<div align="center">
-
-| Initiative | Status | Impact |
-|-----------|--------|--------|
-| 🔧 **Advanced API Architecture** | 🟢 In Progress | Implementing microservices patterns for scalability |
-| 📚 **System Design Mastery** | 🟢 Learning | Scalable architecture principles & best practices |
-| 🏢 **Enterprise Solutions** | 🟢 Building | Production-grade systems with robust architecture |
-| 💡 **Code Excellence** | 🟢 Continuous | Refactoring & improving code quality systematically |
-| 🌐 **Full-Stack Integration** | 🟢 Expanding | Seamless frontend-backend integration patterns |
-
-</div>
-
----
-
-## ⭐ Key Highlights & Achievements
-
-<div align="center">
-
-| Achievement | Description |
-|---|---|
-| 📦 **14+ Projects** | Spanning Finance, Education, Travel, Retail, and more |
-| 🎯 **Multiple Tech Stacks** | Python, C#, JavaScript, HTML/CSS with deep expertise |
-| 🏆 **Clean Architecture** | Following SOLID principles and design patterns consistently |
-| 💾 **Database Excellence** | Strong SQL, normalization, and data modeling skills |
-| 🔗 **Full-Stack Capability** | End-to-end project delivery from backend to frontend |
-| ✅ **Production-Ready** | Focus on scalability, security, and maintainability |
-| 🚀 **Performance First** | Optimized systems that handle real-world demands |
-| 📊 **Data-Driven** | Strong emphasis on database design and optimization |
-
-</div>
-
----
-
-## 🤝 Let's Connect & Collaborate
-
-<div align="center">
-
-### <span style="color: #667eea; font-size: 18px; font-weight: bold;">Open to New Opportunities</span>
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/Noidea1001">
-        <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:your.email@example.com">
-        <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://linkedin.com/in/your-profile">
-        <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/💼_Full_Time-667eea?style=for-the-badge"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🎯_Contracts-764ba2?style=for-the-badge"/>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/🤝_Collaborate-FF6B9D?style=for-the-badge"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:667eea&height=180&section=footer&text=Let's%20Build%20Something%20Extraordinary!&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-
-<br>
-
-### <span style="color: #667eea; font-weight: bold;">⭐ If you find my work interesting, please consider starring my repositories!</span>
-
-<br>
-
-**Crafted with precision and passion** ❤️  
-*Last Updated: August 2026*
-
-</div>
+</body>
+</html>
