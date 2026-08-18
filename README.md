@@ -1,15 +1,6 @@
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║              N O I D E A 1 0 0 1                               ║
-║         Full-Stack Developer & Backend Specialist              ║
-║                                                                ║
-║         Building Production-Grade Enterprise Solutions         ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
+![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:FF6B9D&height=300&section=header&text=NOIDEA1001&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=45)
 
 </div>
 
@@ -17,419 +8,364 @@
 
 <div align="center">
 
-## <samp>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</samp>
+## Full-Stack Developer | Backend Specialist
 
-### **PROFESSIONAL PROFILE**
+### Crafting Enterprise Solutions with Modern Technology
 
-**Backend Architecture** • **Enterprise Systems** • **Database Design**
+**Building Production-Grade Applications**
 
-<samp>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</samp>
+---
+
+[![Profile Views](https://komarev.com/ghpvc/?username=Noidea1001&style=flat-square&color=667eea)](https://github.com/Noidea1001)
+[![GitHub Followers](https://img.shields.io/github/followers/Noidea1001?style=flat-square&color=667eea&label=Followers)](https://github.com/Noidea1001)
 
 </div>
 
 ---
 
-## 📌 OVERVIEW
+## 🎯 Professional Overview
 
-<div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(118, 75, 162, 0.1) 100%); border-left: 4px solid #667eea; border-right: 4px solid #764ba2; padding: 25px; border-radius: 8px; margin: 20px 0;">
-
-**I am a dedicated full-stack developer** with deep expertise in building scalable, production-grade applications. My focus is on clean architecture, database optimization, and enterprise-level system design. I specialize in backend development with a strong foundation in RESTful APIs and microservices architecture.
+<table>
+<tr>
+<td width="50%">
 
 ```
-┌─────────────────────────────────────────────────────┐
-│  Current Focus: Enterprise Applications & Systems   │
-│  Specialization: API Design & Database Architecture │
-│  Philosophy: Clean Code, Scalable Solutions         │
-└─────────────────────────────────────────────────────┘
+┌─────────────────────────────┐
+│  EXPERTISE                  │
+├─────────────────────────────┤
+│  • Backend Architecture     │
+│  • API Design & Development │
+│  • Database Optimization    │
+│  • Enterprise Systems       │
+│  • System Architecture      │
+│  • Clean Code Practices     │
+└─────────────────────────────┘
 ```
 
-</div>
+</td>
+<td width="50%">
 
----
+```
+┌─────────────────────────────┐
+│  PHILOSOPHY                 │
+├─────────────────────────────┤
+│  • Write Elegant Code       │
+│  • Build Scalable Systems   │
+│  • Optimize for Performance │
+│  • Maintain High Quality     │
+│  • Solve Real Problems      │
+│  • Continuous Learning      │
+└─────────────────────────────┘
+```
 
-## 💻 TECHNOLOGY ARSENAL
-
-<table align="center" style="border-collapse: collapse; width: 100%; margin: 30px 0;">
-  <tr style="background: linear-gradient(90deg, #667eea 0%, #764ba2 100%);">
-    <td style="padding: 15px; text-align: center; border: 2px solid #667eea; font-weight: bold; color: white;">LANGUAGES</td>
-    <td style="padding: 15px; text-align: center; border: 2px solid #667eea; font-weight: bold; color: white;">BACKEND & FRAMEWORKS</td>
-    <td style="padding: 15px; text-align: center; border: 2px solid #667eea; font-weight: bold; color: white;">DATABASES & TOOLS</td>
-  </tr>
-  <tr>
-    <td style="border: 2px solid #667eea; padding: 20px; background: rgba(102, 126, 234, 0.05);">
-      <code>Python</code><br>
-      <code>C#</code><br>
-      <code>JavaScript</code><br>
-      <code>HTML5</code><br>
-      <code>CSS3</code>
-    </td>
-    <td style="border: 2px solid #667eea; padding: 20px; background: rgba(118, 75, 162, 0.05);">
-      <code>.NET Core</code><br>
-      <code>ASP.NET</code><br>
-      <code>Django</code><br>
-      <code>Flask</code><br>
-      <code>REST APIs</code>
-    </td>
-    <td style="border: 2px solid #667eea; padding: 20px; background: rgba(102, 126, 234, 0.05);">
-      <code>PostgreSQL</code><br>
-      <code>SQL Server</code><br>
-      <code>SQLite</code><br>
-      <code>Git</code><br>
-      <code>GitHub</code>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
 
-## 🏆 FEATURED PROJECTS
+## 💻 Technology Stack
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 25px; margin: 30px 0;">
+<div align="center">
 
-<div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.1) 0%, rgba(102, 126, 234, 0.05) 100%); border: 2px solid #667eea; border-left: 6px solid #667eea; border-radius: 8px; padding: 25px;">
+### Languages & Core Technologies
 
-### BANK ACCOUNT API
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=1f2937&logoWidth=20)](https://python.org)
+[![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white&labelColor=1f2937)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=1f2937)](https://javascript.info)
+[![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white&labelColor=1f2937)](https://html.spec.whatwg.org/)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=1f2937)](https://www.w3.org/Style/CSS/)
+
+### Backend Frameworks & Platforms
+
+[![DotNET](https://img.shields.io/badge/.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=1f2937)](https://dotnet.microsoft.com/)
+[![ASPNET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white&labelColor=1f2937)](https://dotnet.microsoft.com/apps/aspnet)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=1f2937)](https://www.djangoproject.com/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=1f2937)](https://flask.palletsprojects.com/)
+[![REST](https://img.shields.io/badge/REST%20APIs-FF6B35?style=for-the-badge&logoColor=white&labelColor=1f2937)](https://restfulapi.net/)
+
+### Databases & Infrastructure
+
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1f2937)](https://www.postgresql.org/)
+[![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&labelColor=1f2937)](https://www.microsoft.com/sql-server)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1f2937)](https://www.sqlite.org/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=1f2937)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1f2937)](https://github.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=667eea&height=2&section=header)
+
+</div>
+
+## 🏆 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### Bank Account API
 **Secure Banking System**
 
 ```
-┌─ Python │ REST API │ Database Design ─┐
-│ Full transaction processing          │
-│ Enterprise security protocols        │
-│ RESTful architecture                 │
-└──────────────────────────────────────┘
+━━━━━━━━━━━━━━━━━━━━━━━━━
+Tech: Python | REST | Database
+━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ Transaction Processing
+✓ Account Management  
+✓ Security Protocols
+✓ Database Architecture
 ```
 
-[→ View Repository](https://github.com/Noidea1001/Bank_account_api)
+[View Project →](https://github.com/Noidea1001/Bank_account_api)
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-<div style="background: linear-gradient(135deg, rgba(118, 75, 162, 0.1) 0%, rgba(118, 75, 162, 0.05) 100%); border: 2px solid #764ba2; border-left: 6px solid #764ba2; border-radius: 8px; padding: 25px;">
-
-### TRAVEL BOOKING SYSTEM
+### Travel Booking System
 **Full-Featured Travel Platform**
 
 ```
-┌─ Python │ Database Architecture ──┐
-│ Flight & Hotel Booking             │
-│ Itinerary Management               │
-│ Payment Integration                │
-└────────────────────────────────────┘
+━━━━━━━━━━━━━━━━━━━━━━━━━
+Tech: Python | Architecture
+━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ Flight & Hotel Booking
+✓ Itinerary Management
+✓ Payment Processing
+✓ Database Optimization
 ```
 
-[→ View Repository](https://github.com/Noidea1001/Travel-booking-system)
+[View Project →](https://github.com/Noidea1001/Travel-booking-system)
 
-</div>
+</td>
+</tr>
+</table>
 
-<div style="background: linear-gradient(135deg, rgba(255, 107, 157, 0.1) 0%, rgba(255, 107, 157, 0.05) 100%); border: 2px solid #FF6B9D; border-left: 6px solid #FF6B9D; border-radius: 8px; padding: 25px;">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### UNIVERSITY MANAGEMENT SYSTEM
+### University Management System
 **Enterprise EF Core Solution**
 
 ```
-┌─ C# │ .NET Core │ Entity Framework ──┐
-│ Student Enrollment System            │
-│ Course Management                    │
-│ Grade Tracking & Reports             │
-└──────────────────────────────────────┘
+━━━━━━━━━━━━━━━━━━━━━━━━━
+Tech: C# | .NET | EF Core
+━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ Student Enrollment
+✓ Course Management
+✓ Grade Tracking
+✓ Reporting Systems
 ```
 
-[→ View Repository](https://github.com/Noidea1001/University-managment-EF-core)
+[View Project →](https://github.com/Noidea1001/University-managment-EF-core)
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-<div style="background: linear-gradient(135deg, rgba(76, 175, 80, 0.1) 0%, rgba(76, 175, 80, 0.05) 100%); border: 2px solid #4CAF50; border-left: 6px solid #4CAF50; border-radius: 8px; padding: 25px;">
-
-### ONLINE LEARNING SYSTEM
+### Online Learning System
 **Django E-Learning Platform**
 
 ```
-┌─ Django │ PostgreSQL │ Multilingual ──┐
-│ Course Management System              │
-│ Student Progress Tracking             │
-│ Assessment Features                   │
-└──────────────────────────────────────┘
+━━━━━━━━━━━━━━━━━━━━━━━━━
+Tech: Django | PostgreSQL
+━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ Course Management
+✓ Progress Tracking
+✓ Assessments
+✓ Multilingual Support
 ```
 
-[→ View Repository](https://github.com/Noidea1001/Online-learning-system)
+[View Project →](https://github.com/Noidea1001/Online-learning-system)
 
-</div>
+</td>
+</tr>
+</table>
 
-<div style="background: linear-gradient(135deg, rgba(255, 183, 0, 0.1) 0%, rgba(255, 183, 0, 0.05) 100%); border: 2px solid #FFB700; border-left: 6px solid #FFB700; border-radius: 8px; padding: 25px;">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### LIBRARY MANAGEMENT SYSTEM
+### Library Management System
 **Complete Inventory Solution**
 
 ```
-┌─ HTML5 │ CSS3 │ JavaScript ────────┐
-│ Book Cataloging System               │
-│ Member Management                    │
-│ Checkout Automation                  │
-└──────────────────────────────────────┘
+━━━━━━━━━━━━━━━━━━━━━━━━━
+Tech: HTML5 | CSS3 | JS
+━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ Book Cataloging
+✓ Member Management
+✓ Checkout System
+✓ Reporting Features
 ```
 
-[→ View Repository](https://github.com/Noidea1001/Library-System)
+[View Project →](https://github.com/Noidea1001/Library-System)
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-<div style="background: linear-gradient(135deg, rgba(255, 23, 68, 0.1) 0%, rgba(255, 23, 68, 0.05) 100%); border: 2px solid #FF1744; border-left: 6px solid #FF1744; border-radius: 8px; padding: 25px;">
-
-### POINT OF SALE SYSTEM
+### Point of Sale System
 **Professional POS Interface**
 
 ```
-┌─ HTML5 │ CSS3 │ JavaScript ────────┐
-│ Transaction Processing               │
-│ Inventory Tracking                   │
-│ Analytics & Reporting                │
-└──────────────────────────────────────┘
+━━━━━━━━━━━━━━━━━━━━━━━━━
+Tech: HTML5 | CSS3 | JS
+━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ Transaction Processing
+✓ Inventory Tracking
+✓ Real-time Analytics
+✓ Reporting Dashboard
 ```
 
-[→ View Repository](https://github.com/Noidea1001/pos)
+[View Project →](https://github.com/Noidea1001/pos)
 
-</div>
+</td>
+</tr>
+</table>
 
-<div style="background: linear-gradient(135deg, rgba(0, 188, 212, 0.1) 0%, rgba(0, 188, 212, 0.05) 100%); border: 2px solid #00BCD4; border-left: 6px solid #00BCD4; border-radius: 8px; padding: 25px;">
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
-### ATTENDANCE MANAGEMENT SYSTEM
+### Student Attendance System
 **Automated Tracking Solution**
 
 ```
-┌─ Database Architecture │ Python ─────┐
-│ Auto Attendance Recording            │
-│ Report Generation                    │
-│ Advanced Analytics                   │
-└──────────────────────────────────────┘
+━━━━━━━━━━━━━━━━━━━━━━━━━
+Tech: Database | Python
+━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ Auto Attendance
+✓ Report Generation
+✓ Advanced Analytics
+✓ Performance Metrics
 ```
 
-[→ View Repository](https://github.com/Noidea1001/Student-Attendance-Management-System)
+[View Project →](https://github.com/Noidea1001/Student-Attendance-Management-System)
 
-</div>
+</td>
+<td width="50%" valign="top">
 
-<div style="background: linear-gradient(135deg, rgba(139, 195, 74, 0.1) 0%, rgba(139, 195, 74, 0.05) 100%); border: 2px solid #8BC34A; border-left: 6px solid #8BC34A; border-radius: 8px; padding: 25px;">
-
-### WEATHER APPLICATION
+### Weather Application
 **Real-Time Weather App**
 
 ```
-┌─ Frontend │ APIs │ JavaScript ──────┐
-│ Location-Based Forecasts             │
-│ Interactive Visualization            │
-│ Real-Time Updates                    │
-└──────────────────────────────────────┘
+━━━━━━━━━━━━━━━━━━━━━━━━━
+Tech: Frontend | APIs | JS
+━━━━━━━━━━━━━━━━━━━━━━━━━
+
+✓ Location-Based Forecasts
+✓ Interactive UI
+✓ Real-time Updates
+✓ Data Visualization
 ```
 
-[→ View Repository](https://github.com/Noidea1001/project-weather)
+[View Project →](https://github.com/Noidea1001/project-weather)
 
-</div>
-
-</div>
-
----
-
-## 🎯 CORE COMPETENCIES
-
-<table style="width: 100%; border-collapse: collapse; margin: 30px 0;">
-  <tr style="background: linear-gradient(90deg, #667eea 0%, #764ba2 100%); color: white;">
-    <th style="padding: 18px; text-align: left; border: 2px solid #667eea; font-size: 1.1rem;">COMPETENCY AREA</th>
-    <th style="padding: 18px; text-align: left; border: 2px solid #667eea; font-size: 1.1rem;">TECHNICAL DETAILS</th>
-  </tr>
-  
-  <tr style="background: rgba(102, 126, 234, 0.05);">
-    <td style="padding: 15px; border: 2px solid #667eea; font-weight: 600;">Backend Architecture</td>
-    <td style="padding: 15px; border: 2px solid #667eea;">RESTful APIs • SOLID Principles • Design Patterns • Microservices • Clean Code</td>
-  </tr>
-  
-  <tr style="background: rgba(118, 75, 162, 0.05);">
-    <td style="padding: 15px; border: 2px solid #764ba2; font-weight: 600;">Database Design</td>
-    <td style="padding: 15px; border: 2px solid #764ba2;">Normalization • Query Optimization • Entity Relationships • Performance Tuning</td>
-  </tr>
-  
-  <tr style="background: rgba(102, 126, 234, 0.05);">
-    <td style="padding: 15px; border: 2px solid #667eea; font-weight: 600;">Backend Frameworks</td>
-    <td style="padding: 15px; border: 2px solid #667eea;">ASP.NET Core • Entity Framework • Django • Flask • API Development</td>
-  </tr>
-  
-  <tr style="background: rgba(118, 75, 162, 0.05);">
-    <td style="padding: 15px; border: 2px solid #764ba2; font-weight: 600;">Frontend Technologies</td>
-    <td style="padding: 15px; border: 2px solid #764ba2;">HTML5 • CSS3 • JavaScript • Bootstrap • Responsive Design</td>
-  </tr>
-  
-  <tr style="background: rgba(102, 126, 234, 0.05);">
-    <td style="padding: 15px; border: 2px solid #667eea; font-weight: 600;">Development Practices</td>
-    <td style="padding: 15px; border: 2px solid #667eea;">Git Workflow • Code Reviews • Testing • Agile Methodology • CI/CD</td>
-  </tr>
-  
-  <tr style="background: rgba(118, 75, 162, 0.05);">
-    <td style="padding: 15px; border: 2px solid #764ba2; font-weight: 600;">System Design</td>
-    <td style="padding: 15px; border: 2px solid #764ba2;">Scalability • Performance Optimization • Security • Architecture Patterns</td>
-  </tr>
+</td>
+</tr>
 </table>
 
 ---
 
-## 📊 KEY HIGHLIGHTS
+<div align="center">
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin: 30px 0;">
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 8px; text-align: center; color: white; border: 2px solid #667eea;">
-  <div style="font-size: 2.5rem; font-weight: bold;">14+</div>
-  <div style="font-size: 1rem; margin-top: 8px;">Projects Delivered</div>
-</div>
-
-<div style="background: linear-gradient(135deg, #764ba2 0%, #667eea 100%); padding: 25px; border-radius: 8px; text-align: center; color: white; border: 2px solid #764ba2;">
-  <div style="font-size: 2.5rem; font-weight: bold;">5+</div>
-  <div style="font-size: 1rem; margin-top: 8px;">Technology Stacks</div>
-</div>
-
-<div style="background: linear-gradient(135deg, #FF6B9D 0%, #667eea 100%); padding: 25px; border-radius: 8px; text-align: center; color: white; border: 2px solid #FF6B9D;">
-  <div style="font-size: 2.5rem; font-weight: bold;">100%</div>
-  <div style="font-size: 1rem; margin-top: 8px;">Code Quality Focus</div>
-</div>
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #FF6B9D 100%); padding: 25px; border-radius: 8px; text-align: center; color: white; border: 2px solid #667eea;">
-  <div style="font-size: 2.5rem; font-weight: bold;">50K+</div>
-  <div style="font-size: 1rem; margin-top: 8px;">Lines of Production Code</div>
-</div>
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=764ba2&height=2&section=header)
 
 </div>
 
----
-
-## 🚀 CURRENTLY WORKING ON
-
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px; margin: 30px 0;">
-
-<div style="background: linear-gradient(135deg, rgba(102, 126, 234, 0.15) 0%, rgba(102, 126, 234, 0.05) 100%); border: 2px solid #667eea; border-radius: 8px; padding: 20px;">
-
-**Advanced API Architecture**
-
-Implementing microservices patterns and distributed system architectures for enhanced scalability and maintainability.
-
-```
-━━━━━━━━━━━━━━━━━━━━
-STATUS: IN PROGRESS
-━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
-
-<div style="background: linear-gradient(135deg, rgba(118, 75, 162, 0.15) 0%, rgba(118, 75, 162, 0.05) 100%); border: 2px solid #764ba2; border-radius: 8px; padding: 20px;">
-
-**System Design Mastery**
-
-Deep diving into scalable architecture principles, design patterns, and enterprise-level best practices.
-
-```
-━━━━━━━━━━━━━━━━━━━━
-STATUS: IN PROGRESS
-━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
-
-<div style="background: linear-gradient(135deg, rgba(255, 107, 157, 0.15) 0%, rgba(255, 107, 157, 0.05) 100%); border: 2px solid #FF6B9D; border-radius: 8px; padding: 20px;">
-
-**Enterprise Solutions**
-
-Building production-grade systems with robust architecture, security implementation, and performance optimization.
-
-```
-━━━━━━━━━━━━━━━━━━━━
-STATUS: IN PROGRESS
-━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
-
-<div style="background: linear-gradient(135deg, rgba(76, 175, 80, 0.15) 0%, rgba(76, 175, 80, 0.05) 100%); border: 2px solid #4CAF50; border-radius: 8px; padding: 20px;">
-
-**Code Excellence**
-
-Continuous improvement through systematic refactoring and implementation of advanced coding patterns.
-
-```
-━━━━━━━━━━━━━━━━━━━━
-STATUS: CONTINUOUS
-━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
-
-<div style="background: linear-gradient(135deg, rgba(255, 183, 0, 0.15) 0%, rgba(255, 183, 0, 0.05) 100%); border: 2px solid #FFB700; border-radius: 8px; padding: 20px;">
-
-**Performance Optimization**
-
-Database query optimization, caching strategies, and algorithmic efficiency improvements.
-
-```
-━━━━━━━━━━━━━━━━━━━━
-STATUS: IN PROGRESS
-━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
-
-<div style="background: linear-gradient(135deg, rgba(0, 188, 212, 0.15) 0%, rgba(0, 188, 212, 0.05) 100%); border: 2px solid #00BCD4; border-radius: 8px; padding: 20px;">
-
-**Full-Stack Integration**
-
-Seamless integration of frontend and backend systems with modern development practices.
-
-```
-━━━━━━━━━━━━━━━━━━━━
-STATUS: IN PROGRESS
-━━━━━━━━━━━━━━━━━━━━
-```
-
-</div>
-
-</div>
-
----
-
-## 🤝 CONNECT & OPPORTUNITIES
-
-<div align="center" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 40px; border-radius: 12px; margin: 30px 0; border: 2px solid #667eea;">
-
-### LET'S WORK TOGETHER
-
-```
-╔════════════════════════════════════════════════════════════════╗
-║                    OPEN TO NEW OPPORTUNITIES                  ║
-╚════════════════════════════════════════════════════════════════╝
-```
-
-**Connect With Me:**
-
-[GitHub](https://github.com/Noidea1001) • [Email](mailto:your.email@example.com) • [LinkedIn](https://linkedin.com/in/your-profile) • [Portfolio](https://yourportfolio.com)
-
-**Available For:**
-
-Full-Time Positions • Contract Work • Technical Collaborations • Open Source • Mentoring
-
-</div>
-
----
-
-## 📈 GITHUB STATISTICS
+## 🎓 Core Competencies
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noidea1001&show_icons=true&theme=dark&bg_color=0d1117&title_color=667eea&text_color=8b949e&icon_color=667eea&border_color=667eea&border_radius=12&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noidea1001&layout=compact&theme=dark&bg_color=0d1117&title_color=667eea&text_color=8b949e&border_color=667eea&border_radius=12)
+| Skill Category | Expertise Level | Key Technologies |
+|---|---|---|
+| **Backend Architecture** | Expert | REST APIs, SOLID, Design Patterns, Microservices |
+| **Database Design** | Expert | PostgreSQL, SQL Server, Query Optimization, Schemas |
+| **API Development** | Expert | ASP.NET Core, Django, Flask, RESTful Design |
+| **System Design** | Advanced | Scalability, Performance, Security, Patterns |
+| **Frontend Development** | Proficient | HTML5, CSS3, JavaScript, Responsive Design |
+| **Development Practices** | Expert | Git, Testing, Code Reviews, Agile |
 
 </div>
 
 ---
 
-## 📊 ACTIVITY & CONTRIBUTION
+## 📊 Performance Metrics
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Noidea1001&theme=dark&background=0d1117&ring=667eea&fire=667eea&currStreakLabel=667eea&border=667eea&border_radius=12)
+| Metric | Achievement |
+|--------|-------------|
+| **Projects Completed** | 14+ Enterprise Applications |
+| **Technology Diversity** | 5+ Different Tech Stacks |
+| **Code Quality Focus** | 100% Production-Ready |
+| **Code Volume** | 50,000+ Lines Written |
+| **Database Schemas** | 30+ Complex Designs |
+| **API Endpoints** | 100+ RESTful APIs |
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noidea1001&theme=react-dark&hide_border=true&bg_color=0d1117&color=667eea&line=667eea&point=ffffff&area_color=667eea&area=true)
+</div>
+
+---
+
+## 🚀 Current Focus Areas
+
+<div align="center">
+
+```
+┌────────────────────────────────────────────────────────────┐
+│                                                            │
+│  ▶  Advanced Microservices Architecture                   │
+│  ▶  Distributed System Design Patterns                    │
+│  ▶  Enterprise Application Development                    │
+│  ▶  Database Performance Optimization                     │
+│  ▶  Cloud Infrastructure & Deployment                     │
+│  ▶  System Scalability & Reliability                      │
+│                                                            │
+└────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Noidea1001&show_icons=true&theme=dark&bg_color=0d1117&title_color=667eea&text_color=8b949e&icon_color=667eea&border_color=667eea&border_radius=10&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noidea1001&layout=compact&theme=dark&bg_color=0d1117&title_color=667eea&text_color=8b949e&border_color=667eea&border_radius=10)
+
+</div>
+
+---
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Noidea1001&theme=dark&background=0d1117&ring=667eea&fire=667eea&currStreakLabel=667eea&border=667eea&border_radius=10)
+
+</div>
+
+---
+
+## 📅 Activity Timeline
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Noidea1001&theme=react-dark&hide_border=true&bg_color=0d1117&color=667eea&line=667eea&point=ffffff&area_color=667eea&area=true&radius=10)
 
 </div>
 
@@ -437,16 +373,45 @@ Full-Time Positions • Contract Work • Technical Collaborations • Open Sour
 
 <div align="center">
 
-```
-╔════════════════════════════════════════════════════════════════╗
-║                                                                ║
-║    Crafted with precision and attention to detail              ║
-║                                                                ║
-║    Building scalable solutions that make a difference          ║
-║                                                                ║
-║                  Last Updated: August 2026                     ║
-║                                                                ║
-╚════════════════════════════════════════════════════════════════╝
-```
+![Divider](https://capsule-render.vercel.app/api?type=rect&color=FF6B9D&height=2&section=header)
+
+</div>
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+### Open Opportunities
+
+| Opportunity | Status |
+|---|---|
+| Full-Time Backend Developer | OPEN |
+| Contract Projects | OPEN |
+| Technical Consulting | OPEN |
+| Open Source Contribution | OPEN |
+| Collaboration & Mentoring | OPEN |
+
+### Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Visit_Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Noidea1001)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Site-667eea?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
+
+</div>
+
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:FF6B9D&height=200&section=footer&text=Let's%20Build%20Something%20Great!&fontSize=50&fontColor=ffffff&animation=fadeIn)
+
+<br>
+
+### Professional Full-Stack Developer | Enterprise Solutions Architect
+
+**Committed to building scalable, production-grade applications with clean code and excellent design**
+
+Last Updated: August 2026 | [GitHub](https://github.com/Noidea1001)
 
 </div>
