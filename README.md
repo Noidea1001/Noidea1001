@@ -1,42 +1,75 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=230&section=header&text=Hi,%20I'm%20Vy%20Sal&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Web%20Developer%20%E2%80%A2%20Phnom%20Penh,%20Cambodia&descAlignY=55&descSize=19&descColor=93c5fd" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:3b82f6&height=120&section=header" width="100%"/>
+
+</div>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="220" valign="top" align="center">
+
+<img src="https://github.com/Noidea1001.png?size=220" width="180" style="border-radius:50%;" />
+
+</td>
+<td width="20"></td>
+<td valign="top">
+
+## Vy Sal
+<sub>**@Noidea1001**</sub>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=3000&pause=900&color=60A5FA&center=false&vCenter=true&width=500&lines=Full-Stack+Web+Developer+%7C+ASP.NET+Core+%2B+Django;Solo+dev+%26+backend+specialist+on+team+projects" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://github.com/Noidea1001">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=900&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+full-stack+apps+with+ASP.NET+Core+%2B+Django;Solo+dev+%26+backend+specialist+on+team+projects;Turning+coursework+into+production-grade+systems;Currently+shipping%3A+LMS+%7C+Task+Planner+%7C+Exam+Platform" alt="Typing SVG" />
-</a>
+📍 Phnom Penh, Cambodia &nbsp;•&nbsp; 🎓 Web Programming Student &nbsp;•&nbsp; 🛠️ Full-Stack Developer
 
-<br/><br/>
+🔗 [github.com/Noidea1001](https://github.com/Noidea1001)
 
-<img src="https://img.shields.io/badge/GitHub-Noidea1001-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Location-Phnom_Penh-3B82F6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Focus-Full--Stack_Dev-22C55E?style=for-the-badge&logo=codereview&logoColor=white&labelColor=0d1117" />
-<img src="https://komarev.com/ghpvc/?username=Noidea1001&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&labelColor=0d1117" />
+📦 Currently building: **Online Learning System** (Django) · **WebPlanner** (ASP.NET Core) · **WebTestPortal** (ASP.NET Core)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+![GitHub](https://img.shields.io/badge/GitHub-Noidea1001-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+![Location](https://img.shields.io/badge/Location-Phnom_Penh-3B82F6?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-Learning_%26_Building-22C55E?style=for-the-badge&labelColor=0d1117)
+![Views](https://komarev.com/ghpvc/?username=Noidea1001&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS&labelColor=0d1117)
 
 </div>
 
 <br/>
 
+<div align="center">
+
+### 🏆 Achievements
+
+<img src="https://github-profile-trophy.vercel.app/?username=Noidea1001&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=10&margin-h=10" />
+
+</div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
-## About Me
+## 👋 About Me
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="290">
 
--  Web programming student, currently deep in full-stack development across **two stacks** — ASP.NET Core (C#) and Django (Python)
--  Comfortable working solo end-to-end, and as the **backend specialist** on team assignments
--  Actively building three production-style projects — not coursework toys, but real architecture: REST APIs, auth, real-time sync, i18n, and audit-logged admin panels
--  Currently deepening: REST API design, DRF, SignalR, PWA patterns
--  Ask me about: Django ↔ DRF migrations, ASP.NET Core Web API architecture, or kanban/calendar UI builds
--  Fun fact: I'll happily rebuild an entire app's data layer mid-project if it means fixing a permission gap the "original" version never caught
+- 🎓 Web programming student, currently deep in full-stack development across **two stacks** — ASP.NET Core (C#) and Django (Python)
+- 🛠️ Comfortable working solo end-to-end, and as the **backend specialist** on team assignments
+- 🚀 Actively building three production-style projects — not coursework toys, but real architecture: REST APIs, auth, real-time sync, i18n, and audit-logged admin panels
+- 🌱 Currently deepening: REST API design, DRF, SignalR, PWA patterns
+- 💬 Ask me about: Django ↔ DRF migrations, ASP.NET Core Web API architecture, or kanban/calendar UI builds
+- ⚡ Fun fact: I'll happily rebuild an entire app's data layer mid-project if it means fixing a permission gap the "original" version never caught
 
 <br clear="right"/>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
-## Tech Stack
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -81,7 +114,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -93,7 +126,7 @@ Full LMS with 13 apps fully converted to a fetch/DRF-driven architecture — tim
 
 </td>
 <td width="50%">
-<h3> WebPlanner</h3>
+<h3>📋 WebPlanner</h3>
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/SignalR-512BD4?style=flat-square"/> <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
 
 Task management app with kanban, calendar, and dashboard views. Real-time sync via SignalR, AI-assisted task creation, and a separated Web API + MVC frontend.
@@ -102,14 +135,14 @@ Task management app with kanban, calendar, and dashboard views. Real-time sync v
 </tr>
 <tr>
 <td width="50%">
-<h3> WebTestPortal</h3>
+<h3>📝 WebTestPortal</h3>
 <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/> <img src="https://img.shields.io/badge/Web_API-005571?style=flat-square"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
 
 Online exam platform rebuilt from MVC+Razor into a pure API backend with a static JS frontend — timed attempts, autosave, flagging, and results analytics.
 
 </td>
 <td width="50%">
-<h3> More on GitHub</h3>
+<h3>➕ More on GitHub</h3>
 <img src="https://img.shields.io/badge/14_Repositories-181717?style=flat-square&logo=github&logoColor=white"/>
 
 Browse the full repository list for the latest work, including everything currently in progress.
@@ -124,22 +157,20 @@ Browse the full repository list for the latest work, including everything curren
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Noidea1001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60A5FA&icon_color=60A5FA&text_color=c9d1d9&ring_color=3B82F6" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Noidea1001&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noidea1001&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60A5FA&text_color=c9d1d9" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Noidea1001&theme=react-dark&bg_color=0d1117&color=60A5FA&line=3B82F6&point=ffffff&hide_border=true" width="95%"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Noidea1001&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60A5FA&icon_color=60A5FA&text_color=c9d1d9&ring_color=3B82F6" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noidea1001&layout=donut&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=60A5FA&text_color=c9d1d9" />
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Noidea1001&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Noidea1001&theme=tokyonight&hide_border=true&background=0d1117&ring=3B82F6&fire=60A5FA&currStreakLabel=60A5FA" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Noidea1001&theme=react-dark&bg_color=0d1117&color=60A5FA&line=3B82F6&point=ffffff&hide_border=true" width="95%"/>
 
 </div>
 
@@ -147,7 +178,7 @@ Browse the full repository list for the latest work, including everything curren
 
 <div align="center">
 
-###  Contribution Snake
+### 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/Noidea1001/Noidea1001/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
@@ -159,13 +190,13 @@ Browse the full repository list for the latest work, including everything curren
 
 <div align="center">
 
-###  Let's Connect
+### 📫 Let's Connect
 
 <a href="https://github.com/Noidea1001"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/></a>
 
 <br/><br/>
 
-<sub> Open to feedback, collaboration, and pull requests on any of my projects</sub>
+<sub>💡 Open to feedback, collaboration, and pull requests on any of my projects</sub>
 
 <br/><br/>
 
