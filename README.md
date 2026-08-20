@@ -13,7 +13,7 @@ I build practical web applications, APIs, and software projects while continuous
 </div>
 
 <p align="center">
-  <img src="./assets/profile-dashboard.png" alt="Noidea1001 GitHub Profile" width="100%" />
+  <img src="/profile-dashboard.png" alt="Noidea1001 GitHub Profile" width="100%" />
 </p>
 
 ---
