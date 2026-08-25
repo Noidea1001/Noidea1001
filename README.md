@@ -303,15 +303,60 @@ Order Items
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Noidea1001&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&rank_icon=github" height="180" alt="GitHub Statistics">
+<a href="https://github.com/Noidea1001">
+<img
+src="https://github-readme-stats.vercel.app/api?username=Noidea1001&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&rank_icon=github"
+height="180"
+alt="Noidea1001 GitHub Statistics">
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noidea1001&layout=compact&langs_count=8&hide_border=true&theme=github_dark" height="180" alt="Top Languages">
+<a href="https://github.com/Noidea1001">
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noidea1001&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
+height="180"
+alt="Noidea1001 Top Languages">
+</a>
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Noidea1001&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
+<a href="https://github.com/Noidea1001">
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=Noidea1001&theme=github-dark-blue&hide_border=true"
+alt="Noidea1001 GitHub Streak">
+</a>
 
 </div>
+
+---
+
+<div align="center">
+
+## `07` — CONTRIBUTIONS
+
+<br>
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Noidea1001&bg_color=0D1117&color=58A6FF&line=238636&point=FFFFFF&area=true&hide_border=true&custom_title=Noidea1001%20Contribution%20Activity"
+width="95%"
+alt="Noidea1001 Contribution Activity">
+
+</div>
+
+---
+
+<div align="center">
+
+## `08` — CONTRIBUTION SNAKE
+
+<br>
+
+<img
+src="https://raw.githubusercontent.com/Noidea1001/Noidea1001/output/github-contribution-grid-snake-dark.svg"
+width="95%"
+alt="Noidea1001 Contribution Snake">
+
+</div>
+
 
 ---
 
