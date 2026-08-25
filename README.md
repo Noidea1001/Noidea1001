@@ -1,220 +1,149 @@
-<!-- ========================= -->
-
-<!--        PROFILE HEADER      -->
-
-<!-- ========================= -->
-
 <div align="center">
 
-# Noidea1001
+# NOIDEA1001
 
-### Software Developer | Backend & API Development | Full-Stack Development
+### Software Developer
 
-Building practical web applications, REST APIs, database-driven systems, and modern client-server applications.
+**Backend Development · REST APIs · Full-Stack Applications · Database Systems**
 
 <br>
 
 <a href="https://github.com/Noidea1001">
-  <img src="https://img.shields.io/github/followers/Noidea1001?label=Followers&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers">
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
 </a>
-<a href="https://github.com/Noidea1001">
-  <img src="https://img.shields.io/github/stars/Noidea1001?affiliations=OWNER&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars">
+<a href="https://github.com/Noidea1001?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories">
 </a>
 
 </div>
 
----
-
-# About Me
-
-I am a software development student focused on building practical and maintainable software systems.
-
-My primary interests are backend development, REST API architecture, database design, authentication, authorization, client-server communication, and full-stack web development.
-
-I enjoy building applications from the database and API layer through to the frontend and deployment process.
-
-I use GitHub to document my development journey, build real-world projects, experiment with technologies, and continuously improve my engineering skills.
-
-### Current Focus
-
-* Backend development
-* RESTful API development
-* Full-stack web applications
-* Database architecture
-* Authentication and authorization
-* Client-server architecture
-* Responsive frontend development
-* Cloud deployment
-* Software architecture
-* Clean and maintainable code
+<br>
 
 ---
 
-# Technology Stack
+## Profile
 
-## Languages
+I am a software development student focused on building **backend systems, REST APIs, database-driven applications, and full-stack web applications**.
 
-<p align="left">
+I enjoy designing applications from the database and API layer to the frontend, with an emphasis on clean architecture, maintainability, security, and practical user experience.
 
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python">
-</a>
+My current development path is centered around **Python, Django, C#, .NET, JavaScript, SQL, REST APIs, and modern deployment platforms**.
 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/">
-<img src="https://skillicons.dev/icons?i=cs" width="50" height="50" alt="C#">
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript">
-</a>
-
-<a href="https://www.w3.org/html/">
-<img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML">
-</a>
-
-<a href="https://www.w3.org/Style/CSS/">
-<img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS">
-</a>
-
-<a href="https://www.postgresql.org/">
-<img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL">
-</a>
-
-</p>
-
-## Frameworks & Libraries
-
-<p align="left">
-
-<a href="https://www.djangoproject.com/">
-<img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="Django">
-</a>
-
-<a href="https://dotnet.microsoft.com/">
-<img src="https://skillicons.dev/icons?i=dotnet" width="50" height="50" alt=".NET">
-</a>
-
-<a href="https://getbootstrap.com/">
-<img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap">
-</a>
-
-</p>
-
-## Databases
-
-<p align="left">
-
-<a href="https://www.postgresql.org/">
-<img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL">
-</a>
-
-<a href="https://www.microsoft.com/sql-server">
-<img src="https://skillicons.dev/icons?i=mssql" width="50" height="50" alt="SQL Server">
-</a>
-
-<a href="https://www.sqlite.org/">
-<img src="https://skillicons.dev/icons?i=sqlite" width="50" height="50" alt="SQLite">
-</a>
-
-<a href="https://supabase.com/">
-<img src="https://skillicons.dev/icons?i=supabase" width="50" height="50" alt="Supabase">
-</a>
-
-</p>
-
-## Tools & Platforms
-
-<p align="left">
-
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git">
-</a>
-
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub">
-</a>
-
-<a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="Visual Studio Code">
-</a>
-
-<a href="https://visualstudio.microsoft.com/">
-<img src="https://skillicons.dev/icons?i=visualstudio" width="50" height="50" alt="Visual Studio">
-</a>
-
-<a href="https://www.docker.com/">
-<img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker">
-</a>
-
-<a href="https://vercel.com/">
-<img src="https://skillicons.dev/icons?i=vercel" width="50" height="50" alt="Vercel">
-</a>
-
-<a href="https://render.com/">
-<img src="https://skillicons.dev/icons?i=render" width="50" height="50" alt="Render">
-</a>
-
-</p>
+```text
+Backend        APIs          Databases        Frontend        Deployment
+Python         REST          PostgreSQL      JavaScript      Render
+Django         JWT           SQL Server      HTML/CSS        Vercel
+.NET           CRUD          SQLite          Bootstrap       Supabase
+C#             JSON          EF Core         Fetch API       Neon
+```
 
 ---
 
-# Backend Development
+## Tech Stack
 
-My backend development focuses on building structured APIs and database-driven applications.
+### Languages
 
-### Areas of Experience
+<p>
+<img src="https://skillicons.dev/icons?i=python,cs,javascript,html,css" height="48" alt="Languages">
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=django,dotnet" height="48" alt="Backend Technologies">
+</p>
+
+**Django · Django REST Framework · ASP.NET Core · Entity Framework Core · REST APIs · JWT**
+
+### Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="48" alt="Database Technologies">
+</p>
+
+**PostgreSQL · SQL Server · SQLite · Supabase · Neon**
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,vercel" height="48" alt="Development Tools">
+</p>
+
+**Git · GitHub · Visual Studio · VS Code · Docker · Vercel · Render**
+
+---
+
+## Development Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Backend Engineering
 
 * RESTful API design
-* CRUD operations
-* JSON-based communication
-* HTTP methods and status codes
-* Authentication
+* CRUD architecture
 * JWT authentication
 * Role-based authorization
 * API validation
-* Database relationships
+* Business logic
 * ORM development
-* Entity Framework Core
-* Django ORM
-* Environment configuration
-* API testing
+* Database relationships
+* Error handling
 * Client-server architecture
 
-### Typical Architecture
+</td>
+
+<td width="50%" valign="top">
+
+### Full-Stack Development
+
+* Responsive interfaces
+* JavaScript
+* Fetch API
+* API integration
+* Dashboard development
+* Authentication flows
+* Form handling
+* Data-driven UI
+* Mobile-friendly design
+* Frontend/backend separation
+
+</td>
+</tr>
+</table>
+
+---
+
+## Architecture
+
+I prefer separating applications into clear layers so that the frontend, backend, business logic, and database can evolve independently.
 
 ```text
-┌───────────────────────────┐
-│       Frontend Client     │
-│                           │
-│ HTML / CSS / JavaScript   │
-└─────────────┬─────────────┘
-              │
-              │ Fetch / HTTP / JSON
-              ▼
-┌───────────────────────────┐
-│         REST API          │
-│                           │
-│ Authentication            │
-│ Authorization             │
-│ Validation                │
-│ Business Logic            │
-└─────────────┬─────────────┘
-              │
-              ▼
-┌───────────────────────────┐
-│      ORM / Data Layer     │
-│                           │
-│ Django ORM                │
-│ Entity Framework Core     │
-└─────────────┬─────────────┘
-              │
-              ▼
-┌───────────────────────────┐
-│        Database           │
-│                           │
-│ PostgreSQL / SQL Server   │
-│ SQLite / Supabase         │
-└───────────────────────────┘
+                         CLIENT
+                           |
+                           | HTTP / JSON
+                           v
+                    ┌───────────────┐
+                    │   REST API    │
+                    └───────┬───────┘
+                            |
+                  ┌─────────┴─────────┐
+                  |                   |
+            Authentication       Business Logic
+                  |                   |
+                  └─────────┬─────────┘
+                            |
+                            v
+                    ┌───────────────┐
+                    │ ORM / Data    │
+                    │    Access     │
+                    └───────┬───────┘
+                            |
+                            v
+                    ┌───────────────┐
+                    │   DATABASE    │
+                    └───────────────┘
 ```
 
 ---
@@ -223,38 +152,39 @@ My backend development focuses on building structured APIs and database-driven a
 
 ## Web Test Portal
 
-A full-stack examination platform built around a separate backend API and frontend client.
+**ASP.NET Core · C# · Entity Framework Core · SQL Server · JavaScript**
 
-### Main Features
+A full-stack examination platform designed around a **separate backend API and frontend client**.
+
+### Highlights
 
 * Student and administrator roles
-* Test creation
+* Test management
 * Question management
-* Multiple-choice questions
-* Randomized questions
+* Multiple-choice assessments
+* Question randomization
 * Test attempts
 * Question navigation
 * Submission confirmation
 * Automatic scoring
-* Student results
-* Detailed submission results
+* Detailed student results
 * Administrator result management
-* API-based communication
+* REST API communication
 * Responsive interface
 
 ### Architecture
 
 ```text
-Frontend
-   │
-   │ Fetch API
-   ▼
+Frontend Client
+      |
+      | Fetch API
+      v
 ASP.NET Core Web API
-   │
-   ▼
+      |
+      v
 Entity Framework Core
-   │
-   ▼
+      |
+      v
 SQL Server
 ```
 
@@ -262,69 +192,54 @@ SQL Server
 
 ## Online Learning System
 
-A learning management platform focused on courses, students, instructors, lessons, assignments, submissions, enrollment, and reviews.
+**Python · Django · Django REST Framework · PostgreSQL · JavaScript**
 
-### Main Concepts
+A learning platform focused on managing courses, students, instructors, lessons, assignments, submissions, enrollment, and reviews.
+
+### Core Features
 
 * User management
-* Student accounts
-* Instructor accounts
-* Courses
-* Categories
+* Student and instructor roles
+* Course management
 * Enrollment
 * Lessons
 * Assignments
-* Submissions
+* Submission management
 * Reviews
 * Authentication
 * Role-based functionality
-
-### Technology
-
-```text
-Python
-Django
-Django REST Framework
-PostgreSQL
-JWT
-HTML
-CSS
-JavaScript
-Bootstrap
-```
 
 ---
 
 ## Food Menu REST API
 
-A REST API designed around food menu and ordering functionality.
+**Django REST Framework · PostgreSQL · JWT**
+
+A REST API for a food ordering system with structured resources and relational data.
 
 ### Resources
 
-* Categories
-* Menu items
-* Customers
-* Orders
-* Order items
+`Categories` · `Menu Items` · `Customers` · `Orders` · `Order Items`
 
-### Main Focus
+### Focus
 
 * REST API architecture
-* Relational database design
+* JWT authentication
+* CRUD operations
 * Serializers
 * Validation
-* Authentication
-* JWT
-* CRUD operations
-* HTTP requests and responses
+* Relational database design
+* HTTP request/response handling
 
 ---
 
 ## Library Management System
 
-A database-driven application focused on managing books and library information.
+**Django · PostgreSQL · HTML · CSS · JavaScript**
 
-### Main Focus
+A database-driven application for managing library resources and related information.
+
+### Focus
 
 * CRUD operations
 * Database relationships
@@ -336,17 +251,13 @@ A database-driven application focused on managing books and library information.
 
 ---
 
-# GitHub Statistics
+# GitHub Analytics
 
 <div align="center">
 
-<a href="https://github.com/Noidea1001">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Noidea1001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="Noidea1001 GitHub Stats">
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Noidea1001&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub Statistics">
 
-<a href="https://github.com/Noidea1001">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noidea1001&layout=compact&langs_count=8&hide_border=true&theme=transparent" alt="Noidea1001 Top Languages">
-</a>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noidea1001&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top Languages">
 
 </div>
 
@@ -354,19 +265,17 @@ A database-driven application focused on managing books and library information.
 
 <div align="center">
 
-<a href="https://github.com/Noidea1001">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noidea1001&hide_border=true&theme=transparent" alt="Noidea1001 GitHub Streak">
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Noidea1001&hide_border=true&theme=transparent" alt="GitHub Contribution Streak">
 
 </div>
 
 ---
 
-# Contribution Graph
+# Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Noidea1001&bg_color=00000000&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="Noidea1001 Contribution Graph">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Noidea1001&bg_color=00000000&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" width="95%" alt="Contribution Activity Graph">
 
 </div>
 
@@ -376,79 +285,65 @@ A database-driven application focused on managing books and library information.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Noidea1001/Noidea1001/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+<img src="https://raw.githubusercontent.com/Noidea1001/Noidea1001/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake">
 
 </div>
-
----
-
-# GitHub Profile Summary
-
-<div align="center">
-
-<a href="https://github.com/Noidea1001">
-  <img src="https://github-profile-trophy.vercel.app/?username=Noidea1001&theme=flat&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Profile Trophies">
-</a>
-
-</div>
-
----
-
-# Development Philosophy
-
-```text
-Understand the problem
-        ↓
-Design the solution
-        ↓
-Build the backend
-        ↓
-Design the database
-        ↓
-Connect the frontend
-        ↓
-Test the application
-        ↓
-Deploy and improve
-```
-
-I believe good software is not only about making an application work.
-
-It is also about understanding the architecture behind it, writing maintainable code, designing structured data, protecting application resources, and continuously improving the system.
 
 ---
 
 # Currently Learning
 
-I am currently expanding my knowledge in:
-
-* Advanced backend architecture
-* REST API design
-* Database optimization
-* Authentication and authorization
-* Secure application development
-* Docker
-* CI/CD
-* Cloud deployment
-* Automated testing
-* Clean architecture
-* Software design patterns
-* Scalable web applications
+```text
+Advanced REST API Architecture
+        ↓
+Database Optimization
+        ↓
+Authentication & Authorization
+        ↓
+Docker & Containerization
+        ↓
+Testing & CI/CD
+        ↓
+Cloud Deployment
+        ↓
+Clean Architecture
+        ↓
+Scalable Web Applications
+```
 
 ---
 
-# Professional Interests
+# Development Principles
 
-I am interested in opportunities involving:
+### Build
 
-* Backend Development
-* Full-Stack Development
-* API Development
-* Web Application Development
-* Database Development
-* Software Engineering
-* Junior Software Developer positions
-* Software Development internships
+Create practical applications that solve real problems.
+
+### Understand
+
+Learn how the technologies and architecture work internally.
+
+### Improve
+
+Refactor, optimize, test, and improve every iteration.
+
+### Maintain
+
+Write code that is understandable and easier to extend.
+
+---
+
+# What I Am Looking For
+
+I am interested in opportunities related to:
+
+**Backend Development**
+**Full-Stack Development**
+**REST API Development**
+**Web Application Development**
+**Database Development**
+**Software Engineering**
+**Internships and Junior Developer Roles**
 
 ---
 
@@ -457,15 +352,15 @@ I am interested in opportunities involving:
 <div align="center">
 
 <a href="https://github.com/Noidea1001">
-  <img src="https://img.shields.io/badge/GitHub-Noidea1001-181717?style=for-the-badge&logo=github" alt="GitHub">
+<img src="https://img.shields.io/badge/GitHub-Noidea1001-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### Building projects. Learning continuously. Improving every version.
+### Build. Learn. Improve.
 
 </div>
