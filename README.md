@@ -1,18 +1,23 @@
 <div align="center">
 
-# NOIDEA1001
-
-### Software Developer
-
-**Backend Development · REST APIs · Full-Stack Applications · Database Systems**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:161B22,100:238636&text=NOIDEA1001&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%7C%20Full-Stack&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Noidea1001 Header">
 
 <br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer;Backend+%7C+REST+API+Developer;Full-Stack+Web+Application+Developer;Database+%26+API+Architecture;Always+Building+%7C+Always+Learning" alt="Typing Animation">
+
+<br><br>
+
 <a href="https://github.com/Noidea1001">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+<img src="https://img.shields.io/github/followers/Noidea1001?style=flat-square&label=Followers&color=238636&labelColor=0D1117" alt="Followers">
 </a>
+
 <a href="https://github.com/Noidea1001?tab=repositories">
-<img src="https://img.shields.io/badge/Repositories-181717?style=flat-square&logo=github&logoColor=white" alt="Repositories">
+<img src="https://img.shields.io/badge/Repositories-0D1117?style=flat-square&logo=github&logoColor=58A6FF" alt="Repositories">
+</a>
+
+<a href="https://github.com/Noidea1001">
+<img src="https://komarev.com/ghpvc/?username=Noidea1001&style=flat-square&color=238636&label=Profile+Views" alt="Profile Views">
 </a>
 
 </div>
@@ -21,93 +26,45 @@
 
 ---
 
-## Profile
+<div align="center">
 
-I am a software development student focused on building **backend systems, REST APIs, database-driven applications, and full-stack web applications**.
+## `01` — PROFILE
 
-I enjoy designing applications from the database and API layer to the frontend, with an emphasis on clean architecture, maintainability, security, and practical user experience.
-
-My current development path is centered around **Python, Django, C#, .NET, JavaScript, SQL, REST APIs, and modern deployment platforms**.
-
-```text
-Backend        APIs          Databases        Frontend        Deployment
-Python         REST          PostgreSQL      JavaScript      Render
-Django         JWT           SQL Server      HTML/CSS        Vercel
-.NET           CRUD          SQLite          Bootstrap       Supabase
-C#             JSON          EF Core         Fetch API       Neon
-```
-
----
-
-## Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,cs,javascript,html,css" height="48" alt="Languages">
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=django,dotnet" height="48" alt="Backend Technologies">
-</p>
-
-**Django · Django REST Framework · ASP.NET Core · Entity Framework Core · REST APIs · JWT**
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" height="48" alt="Database Technologies">
-</p>
-
-**PostgreSQL · SQL Server · SQLite · Supabase · Neon**
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,vercel" height="48" alt="Development Tools">
-</p>
-
-**Git · GitHub · Visual Studio · VS Code · Docker · Vercel · Render**
-
----
-
-## Development Focus
+</div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-### Backend Engineering
+### Hello, I'm Noidea1001
 
-* RESTful API design
-* CRUD architecture
-* JWT authentication
-* Role-based authorization
-* API validation
-* Business logic
-* ORM development
-* Database relationships
-* Error handling
+I am a software development student focused on building practical software systems with a strong interest in **backend engineering, REST APIs, databases, and full-stack development**.
+
+I enjoy turning ideas into complete applications — from database design and API architecture to frontend integration and deployment.
+
+My current development path focuses on:
+
+* Backend engineering
+* RESTful API development
+* Database-driven applications
+* Authentication and authorization
 * Client-server architecture
+* Responsive frontend development
+* Cloud deployment
+* Software architecture
 
 </td>
 
-<td width="50%" valign="top">
+<td width="40%" align="center">
 
-### Full-Stack Development
+<img src="https://skillicons.dev/icons?i=python,django,cs,dotnet,js,html,css,postgres,git,github,docker&perline=4" alt="Technology Stack">
 
-* Responsive interfaces
-* JavaScript
-* Fetch API
-* API integration
-* Dashboard development
-* Authentication flows
-* Form handling
-* Data-driven UI
-* Mobile-friendly design
-* Frontend/backend separation
+<br><br>
+
+`Backend`
+`APIs`
+`Databases`
+`Full-Stack`
 
 </td>
 </tr>
@@ -115,252 +72,331 @@ C#             JSON          EF Core         Fetch API       Neon
 
 ---
 
-## Architecture
+<div align="center">
 
-I prefer separating applications into clear layers so that the frontend, backend, business logic, and database can evolve independently.
+## `02` — TECHNOLOGY
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cs,javascript,html,css" alt="Programming Languages">
+
+<br><br>
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=django,dotnet" alt="Backend Technologies">
+
+<br><br>
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mssql,sqlite,supabase" alt="Database Technologies">
+
+<br><br>
+
+### Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,vercel" alt="Tools">
+
+</div>
+
+---
+
+<div align="center">
+
+## `03` — DEVELOPMENT
+
+</div>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Backend
+
+REST APIs
+Authentication
+Authorization
+JWT
+CRUD
+Validation
+Business Logic
+ORM
+API Architecture
+
+</td>
+
+<td width="33%" valign="top">
+
+### Database
+
+PostgreSQL
+SQL Server
+SQLite
+Database Design
+Relationships
+Migrations
+Entity Framework Core
+Django ORM
+
+</td>
+
+<td width="33%" valign="top">
+
+### Frontend
+
+HTML
+CSS
+JavaScript
+Bootstrap
+Fetch API
+Responsive Design
+Dashboard UI
+API Integration
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## `04` — ARCHITECTURE
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=58A6FF&section=header" width="80%" alt="Section Divider">
+
+</div>
 
 ```text
-                         CLIENT
-                           |
-                           | HTTP / JSON
-                           v
-                    ┌───────────────┐
-                    │   REST API    │
-                    └───────┬───────┘
-                            |
-                  ┌─────────┴─────────┐
-                  |                   |
-            Authentication       Business Logic
-                  |                   |
-                  └─────────┬─────────┘
-                            |
-                            v
-                    ┌───────────────┐
-                    │ ORM / Data    │
-                    │    Access     │
-                    └───────┬───────┘
-                            |
-                            v
-                    ┌───────────────┐
-                    │   DATABASE    │
-                    └───────────────┘
+                        USER
+                         │
+                         ▼
+                ┌─────────────────┐
+                │    FRONTEND     │
+                │ HTML / CSS / JS │
+                └────────┬────────┘
+                         │
+                    HTTP / JSON
+                         │
+                         ▼
+                ┌─────────────────┐
+                │    REST API     │
+                │                 │
+                │ Auth            │
+                │ Validation      │
+                │ Business Logic  │
+                └────────┬────────┘
+                         │
+                         ▼
+                ┌─────────────────┐
+                │  DATA ACCESS    │
+                │ Django ORM      │
+                │ EF Core         │
+                └────────┬────────┘
+                         │
+                         ▼
+                ┌─────────────────┐
+                │    DATABASE     │
+                │ PostgreSQL      │
+                │ SQL Server      │
+                │ SQLite          │
+                └─────────────────┘
 ```
 
 ---
 
-# Featured Projects
+<div align="center">
 
-## Web Test Portal
+## `05` — FEATURED PROJECTS
 
-**ASP.NET Core · C# · Entity Framework Core · SQL Server · JavaScript**
+</div>
 
-A full-stack examination platform designed around a **separate backend API and frontend client**.
+### Web Test Portal
 
-### Highlights
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white">
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white">
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
 
-* Student and administrator roles
-* Test management
-* Question management
-* Multiple-choice assessments
-* Question randomization
-* Test attempts
-* Question navigation
-* Submission confirmation
-* Automatic scoring
-* Detailed student results
-* Administrator result management
-* REST API communication
-* Responsive interface
+A full-stack examination platform built around a separate backend API and frontend client.
 
-### Architecture
+**Core functionality**
+
+```text
+Authentication
+Role Management
+Test Management
+Question Management
+Question Randomization
+Test Attempts
+Question Navigation
+Submission Confirmation
+Automatic Scoring
+Student Results
+Admin Result Management
+REST API Communication
+Responsive UI
+```
+
+**Architecture**
 
 ```text
 Frontend Client
-      |
-      | Fetch API
-      v
+      │
+      │ Fetch API
+      ▼
 ASP.NET Core Web API
-      |
-      v
+      │
+      ▼
 Entity Framework Core
-      |
-      v
+      │
+      ▼
 SQL Server
 ```
 
 ---
 
-## Online Learning System
+### Online Learning System
 
-**Python · Django · Django REST Framework · PostgreSQL · JavaScript**
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
 
-A learning platform focused on managing courses, students, instructors, lessons, assignments, submissions, enrollment, and reviews.
+A learning platform designed around students, instructors, courses, lessons, assignments, submissions, enrollment, and reviews.
 
-### Core Features
+**Core functionality**
 
-* User management
-* Student and instructor roles
-* Course management
-* Enrollment
-* Lessons
-* Assignments
-* Submission management
-* Reviews
-* Authentication
-* Role-based functionality
+`Users` · `Courses` · `Enrollment` · `Lessons` · `Assignments` · `Submissions` · `Reviews`
 
 ---
 
-## Food Menu REST API
+### Food Menu REST API
 
-**Django REST Framework · PostgreSQL · JWT**
+<img src="https://img.shields.io/badge/Django_REST_Framework-FF1709?style=flat-square&logo=django&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white">
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
 
-A REST API for a food ordering system with structured resources and relational data.
+REST API for a food ordering system.
 
-### Resources
-
-`Categories` · `Menu Items` · `Customers` · `Orders` · `Order Items`
-
-### Focus
-
-* REST API architecture
-* JWT authentication
-* CRUD operations
-* Serializers
-* Validation
-* Relational database design
-* HTTP request/response handling
+```text
+Categories
+Menu Items
+Customers
+Orders
+Order Items
+```
 
 ---
-
-## Library Management System
-
-**Django · PostgreSQL · HTML · CSS · JavaScript**
-
-A database-driven application for managing library resources and related information.
-
-### Focus
-
-* CRUD operations
-* Database relationships
-* ORM
-* Authentication
-* PostgreSQL
-* Environment configuration
-* Deployment
-
----
-
-# GitHub Analytics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Noidea1001&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=transparent" alt="GitHub Statistics">
+## `06` — GITHUB ANALYTICS
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noidea1001&layout=compact&hide_border=true&langs_count=8&theme=transparent" alt="Top Languages">
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Noidea1001&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&rank_icon=github" height="180" alt="GitHub Statistics">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noidea1001&layout=compact&langs_count=8&hide_border=true&theme=github_dark" height="180" alt="Top Languages">
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Noidea1001&theme=github-dark-blue&hide_border=true" alt="GitHub Streak">
+
+</div>
+
+---
+
+<div align="center">
+
+## `07` — CONTRIBUTIONS
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Noidea1001&bg_color=0D1117&color=58A6FF&line=238636&point=FFFFFF&area=true&hide_border=true&custom_title=Noidea1001%20Contribution%20Activity" width="95%" alt="Contribution Activity">
+
+</div>
+
+---
+
+<div align="center">
+
+## `08` — CONTRIBUTION SNAKE
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Noidea1001/Noidea1001/output/github-contribution-grid-snake-dark.svg" width="95%" alt="Contribution Snake">
+
+</div>
+
+---
+
+<div align="center">
+
+## `09` — CURRENTLY LEARNING
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2600&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Advanced+REST+API+Architecture;Database+Optimization;Authentication+%26+Authorization;Docker+%26+CI%2FCD;Automated+Testing;Cloud+Deployment;Clean+Architecture;Scalable+Web+Applications" alt="Learning Animation">
 
 </div>
 
 <br>
 
+<table>
+<tr>
+<td width="50%">
+
+### Architecture
+
+* Clean Architecture
+* API Design
+* Software Design Patterns
+* Separation of Concerns
+* Maintainable Code
+
+</td>
+
+<td width="50%">
+
+### Engineering
+
+* Testing
+* Security
+* Performance
+* Deployment
+* Continuous Improvement
+
+</td>
+</tr>
+</table>
+
+---
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Noidea1001&hide_border=true&theme=transparent" alt="GitHub Contribution Streak">
+## `10` — DEVELOPMENT PHILOSOPHY
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Build+with+purpose.;Understand+the+technology.;Improve+every+iteration.;Write+software+that+can+grow." alt="Development Philosophy">
 
 </div>
 
 ---
 
-# Contribution Activity
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Noidea1001&bg_color=00000000&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true" width="95%" alt="Contribution Activity Graph">
+## `11` — CONNECT
 
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Noidea1001/Noidea1001/output/github-contribution-grid-snake.svg" width="95%" alt="Contribution Snake">
-
-</div>
-
----
-
-# Currently Learning
-
-```text
-Advanced REST API Architecture
-        ↓
-Database Optimization
-        ↓
-Authentication & Authorization
-        ↓
-Docker & Containerization
-        ↓
-Testing & CI/CD
-        ↓
-Cloud Deployment
-        ↓
-Clean Architecture
-        ↓
-Scalable Web Applications
-```
-
----
-
-# Development Principles
-
-### Build
-
-Create practical applications that solve real problems.
-
-### Understand
-
-Learn how the technologies and architecture work internally.
-
-### Improve
-
-Refactor, optimize, test, and improve every iteration.
-
-### Maintain
-
-Write code that is understandable and easier to extend.
-
----
-
-# What I Am Looking For
-
-I am interested in opportunities related to:
-
-**Backend Development**
-**Full-Stack Development**
-**REST API Development**
-**Web Application Development**
-**Database Development**
-**Software Engineering**
-**Internships and Junior Developer Roles**
-
----
-
-# Connect
-
-<div align="center">
+<br>
 
 <a href="https://github.com/Noidea1001">
 <img src="https://img.shields.io/badge/GitHub-Noidea1001-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
-</div>
+<br><br>
 
-<br>
-
-<div align="center">
-
-### Build. Learn. Improve.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:238636,50:161B22,100:0D1117&section=footer" width="100%" alt="Footer">
 
 </div>
