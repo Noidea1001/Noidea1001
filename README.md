@@ -1,175 +1,212 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0D1117,50:161B22,100:0D1117&text=NOIDEA1001&fontColor=E6EDF3&fontSize=42&fontAlignY=44&desc=Backend%20%26%20Full-Stack%20Developer&descAlignY=68&descSize=14&stroke=30363D&strokeWidth=1" width="100%" alt="Header">
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=15&duration=3000&pause=1200&color=8B949E&center=true&vCenter=true&width=520&lines=Building+reliable+backend+systems;Designing+clean+REST+APIs;Shipping+full-stack+applications" alt="Focus">
-  <br><br>
-  <a href="https://github.com/Noidea1001"><img src="https://img.shields.io/github/followers/Noidea1001?style=flat&label=Followers&color=238636&labelColor=161B22&logo=github" alt="Followers"></a>
-  <a href="https://github.com/Noidea1001?tab=repositories"><img src="https://img.shields.io/badge/Repositories-161B22?style=flat&logo=github&logoColor=8B949E" alt="Repositories"></a>
-  <a href="https://github.com/Noidea1001"><img src="https://komarev.com/ghpvc/?username=Noidea1001&style=flat&color=238636&label=Profile+Views&labelColor=161B22" alt="Profile Views"></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=1F6FEB&text=NOIDEA1001&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Backend%20%26%20Full-Stack%20Developer&descAlignY=58&descSize=15" width="100%" alt="header">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2800&pause=1000&color=8B949E&center=true&vCenter=true&width=560&lines=Building+reliable+backend+systems;Designing+clean+REST+APIs;Shipping+full-stack+applications;Always+learning+%26+improving" alt="typing"/>
+
+<br/>
+
+<a href="https://github.com/Noidea1001">
+  <img src="https://img.shields.io/github/followers/Noidea1001?style=for-the-badge&label=Followers&color=238636&labelColor=0D1117&logo=github&logoColor=white" alt="followers"/>
+</a>
+<a href="https://github.com/Noidea1001?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF" alt="repos"/>
+</a>
+<a href="https://github.com/Noidea1001">
+  <img src="https://komarev.com/ghpvc/?username=Noidea1001&style=for-the-badge&color=238636&label=Profile+Views&labelColor=0D1117" alt="views"/>
+</a>
+
 </div>
+
+<br/>
 
 ---
 
 <div align="center">
-  <h3>About</h3>
+  <h2>About</h2>
 </div>
 
 <p align="center">
-  Software development student focused on building practical, production-oriented systems.<br>
-  Primary interest in <strong>backend engineering</strong>, <strong>REST API design</strong>, <strong>database architecture</strong>, and full-stack delivery.
+  Software development student focused on building practical, production-oriented systems.<br/>
+  Strong interest in <b>backend engineering</b>, <b>REST API design</b>, <b>database architecture</b>, and full-stack delivery.
 </p>
 
 <p align="center">
-  I design and implement complete applications — from data models and API contracts through authentication, business logic, and frontend integration.
+  I turn ideas into complete applications — from database design and API architecture<br/>
+  through authentication, business logic, frontend integration, and deployment.
 </p>
 
 <p align="center">
-  <strong>Core focus areas</strong><br>
-  Backend systems &amp; REST APIs · Database design &amp; data access<br>
-  Authentication / Authorization (JWT) · Clean client-server architecture<br>
-  Maintainable and scalable code
+  <code>Backend Systems</code> &nbsp;·&nbsp;
+  <code>REST APIs</code> &nbsp;·&nbsp;
+  <code>Database Design</code> &nbsp;·&nbsp;
+  <code>Auth & JWT</code> &nbsp;·&nbsp;
+  <code>Full-Stack</code>
 </p>
+
+<br/>
 
 ---
 
 <div align="center">
-  <h3>Technology</h3>
-  <p><strong>Languages</strong></p>
-  <img src="https://skillicons.dev/icons?i=python,cs,javascript,html,css&theme=dark" alt="Languages">
-  <br><br>
-  <p><strong>Backend</strong></p>
-  <img src="https://skillicons.dev/icons?i=django,dotnet&theme=dark" alt="Backend">
-  <br><br>
-  <p><strong>Databases</strong></p>
-  <img src="https://skillicons.dev/icons?i=postgres,mssql,sqlite,supabase&theme=dark" alt="Databases">
-  <br><br>
-  <p><strong>Tools &amp; Platforms</strong></p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,vercel&theme=dark" alt="Tools">
+  <h2>Technology Stack</h2>
 </div>
+
+<br/>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,javascript,html,css,django,dotnet,postgres,mssql,sqlite,supabase,git,github,docker,vscode,visualstudio,vercel&perline=9&theme=dark" alt="tech stack"/>
+</div>
+
+<br/>
 
 ---
 
 <div align="center">
-  <h3>Development Scope</h3>
+  <h2>Development Scope</h2>
 </div>
 
 <table>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <strong>Backend</strong><br>
-      REST API design<br>
-      Authentication &amp; Authorization<br>
-      JWT<br>
-      Validation &amp; business logic<br>
-      ORM / Data access<br>
-      API architecture
-    </td>
-    <td width="33%" valign="top" align="center">
-      <strong>Database</strong><br>
-      PostgreSQL<br>
-      SQL Server<br>
-      SQLite<br>
-      Schema design<br>
-      Relationships &amp; migrations<br>
-      EF Core / Django ORM
-    </td>
-    <td width="33%" valign="top" align="center">
-      <strong>Frontend</strong><br>
-      HTML / CSS / JavaScript<br>
-      Bootstrap<br>
-      Fetch API<br>
-      Responsive layouts<br>
-      Dashboard interfaces<br>
-      API integration
-    </td>
-  </tr>
+<tr>
+<td width="33%" align="center" valign="top">
+
+### Backend
+REST API Design  
+Authentication  
+Authorization  
+JWT  
+Validation  
+Business Logic  
+ORM  
+API Architecture  
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### Database
+PostgreSQL  
+SQL Server  
+SQLite  
+Schema Design  
+Relationships  
+Migrations  
+EF Core  
+Django ORM  
+
+</td>
+<td width="33%" align="center" valign="top">
+
+### Frontend
+HTML / CSS  
+JavaScript  
+Bootstrap  
+Fetch API  
+Responsive UI  
+Dashboard UI  
+API Integration  
+
+</td>
+</tr>
 </table>
 
----
-
-<div align="center">
-  <h3>Architecture</h3>
-</div>
-
-```text
-          Client (HTML / CSS / JS)
-                    │
-               HTTP / JSON
-                    │
-          ┌─────────▼─────────┐
-          │     REST API      │
-          │  Auth · Validation│
-          │  Business Logic   │
-          └─────────┬─────────┘
-                    │
-          ┌─────────▼─────────┐
-          │   Data Access     │
-          │  Django ORM       │
-          │  Entity Framework │
-          └─────────┬─────────┘
-                    │
-          ┌─────────▼─────────┐
-          │     Database      │
-          │ PostgreSQL        │
-          │ SQL Server        │
-          │ SQLite            │
-          └───────────────────┘
-```
+<br/>
 
 ---
 
 <div align="center">
-  <h3>Featured Projects</h3>
+  <h2>Architecture</h2>
 </div>
 
+```text
+┌─────────────────────────────────────────────────────┐
+│                      CLIENT                         │
+│                 HTML · CSS · JavaScript             │
+└─────────────────────────┬───────────────────────────┘
+                          │  HTTP / JSON
+                          ▼
+┌─────────────────────────────────────────────────────┐
+│                     REST API                        │
+│         Auth · Validation · Business Logic          │
+└─────────────────────────┬───────────────────────────┘
+                          │
+                          ▼
+┌─────────────────────────────────────────────────────┐
+│                   DATA ACCESS                       │
+│              Django ORM · Entity Framework          │
+└─────────────────────────┬───────────────────────────┘
+                          │
+                          ▼
+┌─────────────────────────────────────────────────────┐
+│                     DATABASE                        │
+│           PostgreSQL · SQL Server · SQLite          │
+└─────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+---
+
 <div align="center">
-  <h4>Web Test Portal</h4>
-  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white" alt="ASP.NET Core">
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white" alt="C#">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" alt="SQL Server">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <h2>Featured Projects</h2>
+</div>
+
+<br/>
+
+<div align="center">
+
+### Web Test Portal
+
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
 </div>
 
 <p align="center">
-  Full-stack examination platform with clear separation between backend API and frontend client.
+  Full-stack examination platform with separate backend API and frontend client.
 </p>
 
 <p align="center">
-  <strong>Capabilities</strong><br>
-  Authentication &amp; role-based access · Test and question management<br>
-  Question randomization · Attempt tracking · Automatic scoring<br>
-  Student results · Admin oversight · REST communication · Responsive UI
+  Authentication · Role Management · Test & Question Management<br/>
+  Question Randomization · Attempt Tracking · Automatic Scoring<br/>
+  Student Results · Admin Oversight · Responsive UI
 </p>
 
 ```text
-Frontend Client → ASP.NET Core Web API → Entity Framework Core → SQL Server
+Frontend Client  →  ASP.NET Core Web API  →  EF Core  →  SQL Server
 ```
 
-<br>
+<br/>
 
 <div align="center">
-  <h4>Online Learning System</h4>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+
+### Online Learning System
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
 </div>
 
 <p align="center">
-  Learning platform covering courses, enrollment, content delivery, and assessment.
+  Learning platform covering the full course lifecycle.
 </p>
 
 <p align="center">
-  <strong>Domain</strong><br>
-  Users · Courses · Enrollment · Lessons · Assignments · Submissions · Reviews
+  <code>Users</code> · <code>Courses</code> · <code>Enrollment</code> · <code>Lessons</code> · <code>Assignments</code> · <code>Submissions</code> · <code>Reviews</code>
 </p>
 
-<br>
+<br/>
 
 <div align="center">
-  <h4>Food Menu REST API</h4>
-  <img src="https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat&logo=django&logoColor=white" alt="DRF">
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL">
+
+### Food Menu REST API
+
+<img src="https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
 </div>
 
 <p align="center">
@@ -177,70 +214,91 @@ Frontend Client → ASP.NET Core Web API → Entity Framework Core → SQL Serve
 </p>
 
 <p align="center">
-  <strong>Resources</strong><br>
-  Categories · Menu Items · Customers · Orders · Order Items
+  <code>Categories</code> · <code>Menu Items</code> · <code>Customers</code> · <code>Orders</code> · <code>Order Items</code>
 </p>
 
----
-
-<div align="center">
-  <h3>GitHub Analytics</h3>
-  <br>
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Noidea1001&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&rank_icon=github&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&icon_color=58A6FF" height="160" alt="GitHub Stats">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Noidea1001&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E" height="160" alt="Top Languages">
-  <br><br>
-  <img src="https://streak-stats.demolab.com/?user=Noidea1001&theme=github-dark-blue&hide_border=true&background=0D1117&ring=238636&fire=238636&currStreakLabel=8B949E" alt="GitHub Streak">
-</div>
+<br/>
 
 ---
 
 <div align="center">
-  <h3>Contribution Activity</h3>
-  <br>
-  <img src="https://raw.githubusercontent.com/Noidea1001/Noidea1001/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake">
+  <h2>GitHub Analytics</h2>
+  <br/>
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=Noidea1001&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=github_dark&rank_icon=github&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E&icon_color=58A6FF" alt="stats"/>
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Noidea1001&layout=compact&langs_count=8&hide_border=true&theme=github_dark&bg_color=0D1117&title_color=E6EDF3&text_color=8B949E" alt="languages"/>
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=Noidea1001&theme=github-dark-blue&hide_border=true&background=0D1117&ring=238636&fire=238636&currStreakLabel=8B949E" alt="streak"/>
 </div>
+
+<br/>
 
 ---
 
 <div align="center">
-  <h3>Currently Learning</h3>
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=14&duration=2800&pause=1000&color=8B949E&center=true&vCenter=true&width=540&lines=Advanced+REST+API+Architecture;Database+Optimization;Authentication+%26+Authorization;Docker+%26+CI%2FCD;Automated+Testing;Cloud+Deployment;Clean+Architecture" alt="Learning">
+  <h2>Contribution Activity</h2>
+  <br/>
+  <img src="https://raw.githubusercontent.com/Noidea1001/Noidea1001/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake"/>
 </div>
+
+<br/>
+
+---
+
+<div align="center">
+  <h2>Currently Learning</h2>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=580&lines=Advanced+REST+API+Architecture;Database+Optimization;Authentication+%26+Authorization;Docker+%26+CI%2FCD;Automated+Testing;Cloud+Deployment;Clean+Architecture" alt="learning"/>
+</div>
+
+<br/>
 
 <table>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <strong>Architecture</strong><br>
-      Clean Architecture<br>
-      API design principles<br>
-      Design patterns<br>
-      Separation of concerns<br>
-      Maintainable structure
-    </td>
-    <td width="50%" valign="top" align="center">
-      <strong>Engineering</strong><br>
-      Testing strategies<br>
-      Security practices<br>
-      Performance considerations<br>
-      Deployment workflows<br>
-      Continuous improvement
-    </td>
-  </tr>
+<tr>
+<td width="50%" align="center" valign="top">
+
+### Architecture
+Clean Architecture  
+API Design Principles  
+Design Patterns  
+Separation of Concerns  
+Maintainable Structure  
+
+</td>
+<td width="50%" align="center" valign="top">
+
+### Engineering
+Testing Strategies  
+Security Practices  
+Performance  
+Deployment Workflows  
+Continuous Improvement  
+
+</td>
+</tr>
 </table>
 
+<br/>
+
 ---
 
 <div align="center">
-  <h3>Approach</h3>
-  <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=14&duration=3200&pause=1200&color=8B949E&center=true&vCenter=true&width=480&lines=Build+with+purpose;Understand+the+technology;Improve+every+iteration;Write+software+that+can+grow" alt="Philosophy">
+  <h2>Approach</h2>
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3000&pause=1100&color=8B949E&center=true&vCenter=true&width=500&lines=Build+with+purpose;Understand+the+technology;Improve+every+iteration;Write+software+that+can+grow" alt="philosophy"/>
 </div>
 
+<br/>
+
 ---
 
 <div align="center">
-  <a href="https://github.com/Noidea1001"><img src="https://img.shields.io/badge/GitHub-Noidea1001-161B22?style=for-the-badge&logo=github&logoColor=E6EDF3&labelColor=0D1117" alt="GitHub"></a>
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=70&color=0:0D1117,100:161B22&section=footer&stroke=30363D&strokeWidth=1" width="100%" alt="Footer">
+  <a href="https://github.com/Noidea1001">
+    <img src="https://img.shields.io/badge/GitHub-Noidea1001-0D1117?style=for-the-badge&logo=github&logoColor=58A6FF&labelColor=161B22" alt="github"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:161B22,100:0D1117&section=footer" width="100%" alt="footer"/>
 </div>
