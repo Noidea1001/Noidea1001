@@ -1,8 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,50:161B22,100:238636&text=NOIDEA1001&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Software%20Developer%20%7C%20Backend%20%7C%20Full-Stack&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Noidea1001 Header">
+<!-- ABSTRACT HEADER -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:05080D,45:0B1624,75:102A43,100:071A12&text=NOIDEA1001&fontColor=FFFFFF&fontSize=56&fontAlignY=42&desc=SOFTWARE%20DEVELOPER%20%7C%20BACKEND%20%7C%20FULL-STACK&descAlignY=61&descSize=17&stroke=1F6FEB&strokeWidth=1&animation=fadeIn" width="100%" alt="Noidea1001 Abstract Header">
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend+Development;REST+API+Engineering;Full-Stack+Web+Applications;Database+Architecture;Building+%7C+Learning+%7C+Improving" alt="Noidea1001 Developer Animation">
+
+</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Software+Developer;Backend+%7C+REST+API+Developer;Full-Stack+Web+Application+Developer;Database+%26+API+Architecture;Always+Building+%7C+Always+Learning" alt="Typing Animation">
 
@@ -396,7 +404,16 @@ Order Items
 </a>
 
 <br><br>
+<!-- ABSTRACT FOOTER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:238636,50:161B22,100:0D1117&section=footer" width="100%" alt="Footer">
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=160&color=0:071A12,30:102A43,65:0B1624,100:05080D&section=footer&stroke=1F6FEB&strokeWidth=1&animation=fadeIn" width="100%" alt="Noidea1001 Abstract Footer">
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=650&lines=Build+with+purpose.;Understand+the+technology.;Improve+every+iteration.;Create+software+that+can+grow." alt="Developer Philosophy Animation">
+
+</div>
 
 </div>
